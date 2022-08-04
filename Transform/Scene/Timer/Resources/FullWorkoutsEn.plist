@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Warm-Up</string>
+		<key>duration</key>
+		<integer>90</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Burpee (approach 1)</string>
+		<key>duration</key>
+		<integer>70</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Burpee (approach 2)</string>
+		<key>duration</key>
+		<integer>70</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Plank</string>
+		<key>duration</key>
+		<integer>85</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Crunch (approach 1)</string>
+		<key>duration</key>
+		<integer>60</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Crunch (approach 2)</string>
+		<key>duration</key>
+		<integer>60</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lunge variation</string>
+		<key>duration</key>
+		<integer>90</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Glute bridge</string>
+		<key>duration</key>
+		<integer>75</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Stretching</string>
+		<key>duration</key>
+		<integer>300</integer>
+	</dict>
+</array>
+</plist>

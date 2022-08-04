@@ -1,0 +1,1823 @@
+"Хатха Йога" = "Hatha Yoga";
+
+"Фитнес дома" = "Fitness at Home";
+
+"Восстановление после родов" = "Recovery after childbirth";
+
+"Таймер" = "Timer";
+
+"Комплексы тренировок" = "Training complexes";
+
+"Рационы питания и Калькулятор" = "Food Rations and Calculator";
+
+"Стретчинг" = "Stretching";
+
+"Главная" = "Home";
+
+"продолжить" = "continue";
+
+"Продолжить" = "Сontinue";
+
+"Добавлен раздел: Расчёт суточной нормы калорий / Рационы питания" = "Added section: Calculation of daily calorie allowance / Food Rations";
+
+"Что нового?" = "What's new?";
+
+"В этой версии iOS мы обязаны запросить у Вас разрешение на отслеживание на этом устройстве некоторых данных, позволяющих улучшить показ рекламы.
+
+Мы используем информацию о ваших действиях, полученную от других приложений и сайтов, чтобы:
+    
+- Показывать Вам более персонализированную рекламу
+
+- Этим Вы помогаете сохранить бесплатную версию приложения
+
+- Поддерживаете компании, которым реклама помогает найти клиентов" = "In this version of iOS, we are required to request your permission to track some data on this device to improve the display of ads.
+
+We use information about your actions obtained from other applications and websites to:
+    
+- Show you more personalized ads
+
+- This helps you keep the free version of the application
+
+- Support companies that advertising helps to find customers";
+
+"Вы используете iOS 14.6" = "You are using iOS 14.6";
+
+"Политика конфиденциальности" = "Privacy Policy";
+
+"Контакты" = "Contacts";
+
+"И не забывай про питание" = "And don't forget about food";
+
+"Или используй уже готовую" = "Or use a ready-made workout";
+
+"Составь свою тренировку" = "Make up your workout";
+
+"ДОБРО ПОЖАЛОВАТЬ В" = "WELCOME TO";
+
+"Далее" = "Continue";
+
+"Политика конфиденциальности
+и Условия обслуживания" = "Privacy Policy
+and Terms of Service";
+
+"Ошибка" = "Error";
+
+"При восстановлении покупки произошла ошибка. Либо её срок действия истек, либо она не была приобретена" = "An error occurred while restoring the purchase. Either it has expired, or it has not been purchased";
+
+"Успех" = "Success";
+
+"Premium версия успешно оформлена" = "Premium version purchased successfully";
+
+"Оформить" = "Purchase";
+
+"Подписка оформленна" = "Subscription purchased";
+
+"Бесплатный пробный период 3 дня / далее 3.99$ - Месяц" = "Free trial period of 3 days / Continue $3.99 - Month";
+
+"Premium предоставит Вам полный доступ к продукту с отсутствием рекламы." = "Premium will give you full access to the product with no ads.";
+
+"Наше приложение бесплатно, поэтому оно содержит рекламу." = "Our app is free, so it contains ads.";
+
+"Восстановление покупок" = "Restoring purchases";
+
+"В пособии вы узнаете и ключевые психологические особенности, и почему не получается добиться результата, в чем ошибки? И самое главное практические методы." = "In the manual you will also learn the key psychological features, and why it is not possible to achieve results, what are the mistakes? And most importantly, practical methods.";
+
+"В погоне за стандартными фигур и желанием в себе что-то поменять. Прибегают к самым абсурдным методам и способам, и забывают про здоровье." = "In pursuit of standard figures and the desire to change something in yourself. They resort to the most absurd methods and methods, and forget about health.";
+
+"Это пособие подойдёт абсолютно любой женщине в разный возрастной период. Что нужно и важно знать? Согласно своей физиологии." = "This manual is suitable for absolutely any woman in different age periods. What is necessary and important to know? According to their physiology.";
+
+"В данном разделе представлено наше пособие, автор:" = "This section presents our manual, the author:";
+
+"Данные упражнения не являются готовым комплексом, упражнения сформированны по мышечным группам" = "These exercises are not a ready-made complex, the exercises are formed by muscle groups";
+
+"Мышечные группы: \n \nМышцы ног / Мышцы рук \n Плечи / Ягодицы / Грудные \n Мышцы кора / Мышцы спины" = "Muscle groups: \n \nLeg muscles / Arm muscles \n Shoulders / Buttocks / Breast \n Abs muscles / Back muscles";
+
+"Просто нажимай на мышцы, чтобы перейти к упражнениям" = "Just press on the muscles to move on to the exercises";
+
+"В данном разделе собраны упражнения для занятий с минимальным инвентарем (дома), которые разбиты по группам мышц" = "This section contains exercises for classes with minimal equipment (at home), which are divided into muscle groups";
+
+"Ягодицы" = "Buttocks";
+
+"Спина" = "Back";
+
+"Жми на мышцы" = "Press on the muscles";
+
+"Грудные мышцы" = "Pectoral muscles";
+
+"Мышцы плеч" = "Shoulder muscles";
+
+"Мышцы рук" = "Arm muscles";
+
+"Мышцы пресса" = "Muscles of the press";
+
+"Мышцы ног" = "Leg muscles";
+
+"Мышцы спины" = "Back muscles";
+
+"Ягодичные мышцы" = "Gluteal muscles";
+
+"В данном разделе вы можете составить тренировку для себя, добавив упражнения из общего списка" = "In this section, you can create a workout for yourself by adding exercises from the general list";
+
+"Чтобы добавить упражнение, зайди в нужную группу мышц и свайпни упражнение, которое понравилось" = "To add an exercise, go to the right muscle group and swipe the exercise you liked";
+
+"Чтобы добавить упражнение, зайди в нужный раздел и свайпни упражнение, которое понравилось" = "To add an exercise, go to the appropriate section and swipe the exercise you liked";
+
+"Чтобы формировать список в нужном порядке, зажми упражнение и перемещай" = "To form a list in the right order, hold down the exercise and move";
+
+"Свайпни упражнение, чтобы удалить его" = "Swipe the exercise to remove it";
+
+"Конец" = "The end";
+
+"Это было последнее упражнение" = "All exercises are over";
+
+"Закрыть" = "Close";
+
+"Моя тренировка" = "My training";
+
+"Очистить список" = "Clear the list";
+
+"Очистить список?" = "Clear the list?";
+
+"Все записи будут удалены!" = "All entries will be deleted!";
+
+"Очистить" = "Clear";
+
+"Отмена" = "Cancel";
+
+"Ваш список упражнений пуст, добавьте упражнения нужной Вам мышечной группы, чтобы начать тренировку" = "Your exercise list is empty, add exercises of the muscle group you need to start training";
+
+"Ваш список упражнений пуст, добавьте упражнения из нужного Вам раздела, чтобы начать тренировку" = "Your exercise list is empty, add exercises from the section you need to start your workout";
+
+"Жим Свенда" = "Press Sved";
+
+"Отжимания с узкой постановкой" = "Push-Up Variation ";
+
+"Отжимания от пола" = "Push-Up";
+
+"Жим лёжа" = "Press";
+
+"Сведение рук лёжа" = "Chest Fly";
+
+"Пулловер от опоры" = "Pull-Over Variation";
+
+"Пулловер лёжа" = "Pull-Over";
+
+"ГРУДНЫЕ МЫШЦЫ" = "PECTORAL MUSCLES";
+
+"ГРУДНЫЕ МЫШЦЫ, ТРИЦЕПС, ПЕРЕДНИЙ ПУЧОК ДЕЛЬТЫ" = "PECTORAL MUSCLES, TRICEPS, FRONT DELT";
+
+"ГРУДНЫЕ МЫШЦЫ, ШИРОЧАЙШИЕ МЫШЦЫ СПИНЫ" = "PECTORAL MUSCLES, LATISSIMUS DORSI";
+
+"Примечание: \n \n-Движение кистей осуществляется перпендикулярно полу, кисти прижаты друг к другу. \n \n-Если нагрузка недостаточная используйте отягощение, зажав его между кистей." = "Note: \n \n-The movement of the hands is perpendicular to the floor, the palms are pressed against each other. \n \n-If the load is insufficient, use a weight by holding it between the palms of the hands.";
+
+"Примечание: \n \n-Выполнять упражнение в упрощенном варианте можно с колен, ладони держите близко друг к другу. \n \n-Локти старайтесь держать ближе к корпусу, корпус держите ровно на одной линии." = "Note: \n \n-You can perform the exercise in a simplified version from your knees, keep your palms close to each other. \n \n-Try to keep your elbows closer to the body, keep the body exactly on the same line.";
+
+"Примечание: \n \n-Упражнение возможно выполнять с колен (упрощенный вариант). \n \n-Корпус держите ровно на одной линии, живот в напряжении. \n \n-Опускайтесь грудью вниз до угла 90 градусов в локтях." = "Note: \n \n - The exercise can be performed from the knees (simplified version). \n\n - Keep the body exactly on the same line, the stomach is tense. \n \n - Go down to reach 90 degrees at the elbows.";
+
+"Примечание: \n \n-Угол в локтевых суставах 90 градусов - в нижней точке, лопатки сведены. \n \n-В верхней точке руки перпендикулярны полу." = "Note: \n \n-The angle at the elbow joints is 90 degrees - at the bottom point, the shoulder blades are brought together. \n \n-At the top point, the arms are perpendicular to the floor.";
+
+"Примечание: \n \n-Локти немного согнуты, во время выполнения угол в локтях зафиксирован. \n \n-Грудная клетка раскрыта, если нагрузка недостаточная увеличьте вес отягощения." = "Note: \n \n-The elbows are sliy bent, during execution the angle in the elbows is fixed. \n \n-The thoracic region is open, if the load is insufficient, increase the weight of the load.";
+
+"Примечание: \n \n-Локти немного согнуты, во время выполнения угол в локтях зафиксирован. \n \n-Опора на лопатки, работа осуществляется плечевыми суставами, не старайтесь поднять таз выше линии корпуса." = "Note: \n \n-The elbows are slightly bent, during the execution the angle in the elbows is fixed. \n \n-Support on the shoulder blades, the work is carried out by the shoulder joints, do not try to raise the pelvis above the body line.";
+
+"Примечание: \n \n-Локти немного согнуты, во время выполнения угол в локтях зафиксирован. \n \n-Грудная клетка раскрыта, в нижней точке руки находятся на весу, делайте паузу в нижней точке." = "Note: \n \n-The elbows are slightly bent, during the execution the angle in the elbows is fixed. \n \n-The chest is open, at the lower point the hands are on the weight, pause at the lower point.";
+
+"Жим Арнольда" = "Press Arnold";
+
+"Подъем рук перед собой" = "Lateral Raise";
+
+"Вертикальные отжимания" = "Dive Bomber Push-Up";
+
+"Махи через стороны" = "Lateral Raise Variation";
+
+"Подъем рук сидя" = "Lateral Raise Variation";
+
+"ПЕРЕДНИЙ, СРЕДНИЙ ПУЧОК ДЕЛЬТЫ" = "FRONT DELT, MIDDLE DELT";
+
+"ПЕРЕДНИЙ ПУЧОК ДЕЛЬТЫ" = "FRONT DELT";
+
+"ДЕЛЬТЫ, ТРИЦЕПС, МЫШЦЫ СПИНЫ" = "DELTAS, TRICEPS, BACK MUSCLES";
+
+"СРЕДНИЙ ПУЧОК ДЕЛЬТЫ" = "MIDDLE DELT";
+
+"Примечание: \n \n-Упражнение можно выполнять также стоя. \n \nПоясница прямая, в конечной точке руки находятся перпендикулярно полу, во время выполнения предплечья параллельны друг другу." = "Note: \n \n-The exercise can also be performed standing up. \n \n -The loin is straight, at the end point the arms are perpendicular to the floor, while the forearms are parallel to each other.";
+
+"Примечание: \n \n-Руки в локтях выпрямлены, в конечной точке руки находятся параллельно полу. Если нагрузки недостаточно используйте отягощения. \n \n-В верхней точке делайте небольшую паузу." = "Note: \n \n-The arms are straightened at the elbows, at the end point the arms are parallel to the floor. If the load is not enough, pick up water bottles \n \n-Make a small pause at the top point.";
+
+"Примечание: \n \n-Колени немного согнуты, во время выполнения угол в коленях зафиксирован. \n \n-Держите корпус ровно, поясница прямая, опускайтесь строго по вертикали вниз. \n \n-Вес тела перенесите на руки, опускайтесь до угла в локтях 90 градусов." = "Note: \n \n-The knees are slightly bent, the angle in the knees is fixed during execution. \n \n-Keep the body straight, the lower back is straight, go down strictly vertically down. \n \n-Transfer the weight of your body to your hands, at the lowest point the degree in the elbows should be 90 degrees.";
+
+"Примечание: \n \n-Упражнение можно выполнять также стоя. \n \n-Локти немного согнуты, во время выполнения угол в локтях зафиксирован. \n \n-В верхней точке руки находятся параллельно полу, делайте паузу в верхней точке." = "Note: \n \n-The exercise can also be performed standing up. \n \n-The elbows are slightly bent, during the execution the angle in the elbows is fixed. \n \n-At the top point the hands are parallel to the floor, pause at the top point.";
+
+"Примечание: \n \n-Упражнение можно выполнять также стоя. \n \n-Зафиксируйте руки в локтях, немного согнув их. В конечной точке руки находятся параллельно полу." = "Note: \n \n-The exercise can also be performed standing up. \n \n-Fix your hands at the elbows by bending them slightly. At the end point, the arms are parallel to the floor.";
+
+"Сгибание рук" = "Biceps Curl";
+
+"Отжимания с узкой постановкой" = "Dive Bomber Push-Up";
+
+"Вертикальные отжимания" = "Overhead Triceps Extensions";
+
+"Разгибание рук из-за головы" = "Kick-Back";
+
+"Разгибание руки в упоре" = "Разгибание руки в упоре";
+
+"Французский жим" = "French Press";
+
+"БИЦЕПС" = "BICEPS";
+
+"ТРИЦЕПС, ГРУДНЫЕ МЫШЦЫ, ПЕРЕДНИЙ ПУЧОК ДЕЛЬТЫ" = "TRICEPS, PECTORAL MUSCLES, FRONT DELT";
+
+"ТРИЦЕПС (ПРИ ВЫПРЯМЛЕНИИ РУК), ПЛЕЧИ, МЫШЦЫ СПИНЫ" = "TRICEPS (WHEN STRAIGHTENING THE ARMS), SHOULDERS, BACK MUSCLES";
+
+"ТРИЦЕПС" = "TRICEPS";
+
+"Примечание: \n \n-Выполнять упражнение в упрощенном варианте можно с колен, ладони держите близко друг к другу. \n \n-Локти старайтесь держать ближе к корпусу, корпус держите ровно на одной линии." = "Note: \n\n-You can perform the exercise in a simplified version from your knees, keep your palms close to each other. \n\n-Try to keep your elbows closer to the body, keep the body straight, on the same line.";
+
+"Примечание: \n \n-Колени немного согнуты, во время выполнения угол в коленях зафиксирован. \n \n-Держите корпус ровно, поясница прямая, опускайтесь строго по вертикали вниз. \n \n-Вес тела перенесите на руки, опускайтесь до угла в локтях 90 градусов." = "Note: \n\n-The knees are slightly bent, during the execution the angle in the knees is fixed. \n\n-Keep the body straight, the loin is straight, go down strictly vertically down. \n\n-Transfer your body weight to your hands, lower yourself until you reach 90 degrees at the elbows.";
+
+"Примечание: \n \n-Спина прямая, локти держите параллельно корпусу, прижмите локти к телу. \n \n-В конечно точке доверните кисти рук на себя, также в обратном положении." = "Note: \n\n - The back is straight, press your elbows to the body. \n\n - At the end point, turn your palms towards you, also in reverse order.";
+
+"Примечание: \n \n-Опора на одну руку, поясница прямая. \n \n-Плечо параллельно корпусу, локоть прижат к телу. \n \n-В конечной точке при разгибании сделайте паузу. \n \nКоличество повторений рекомендовано к выполнению на каждую руку." = "Note: \n \n - Lean on one arm, lower back straight. \n \n - Shoulder parallel to the body, elbow pressed to the body. \n \n - Pause at the end point of the extension. \n \n Recommended number of repetitions for each hand.";
+
+"Примечание: \n \n-Спина прижата, локти направлены вверх. \n \n-Плечи зафиксированы чуть под углом. Работаем только предплечьем, не разводите локти в стороны, кисти зафиксированы. \n \n-В конечной точке руки находятся на весу, руки параллельно полу." = "Note: \n \n-Back is flat on the floor with elbows pointing up. \n \n-Shoulders are fixed slightly at an angle. We work only with the forearm, do not spread the elbows to the sides, the palms are fixed. \n \n-At the end point, the arms are suspended, arms parallel to the floor.";
+
+"Подъем ног толчком вверх" = "Leg Rise Variation";
+
+"Скручивание" = "Crunch";
+
+"Скручивание по диагонали" = "Diagonal Crunch";
+
+"Флажок" = "V-Sit";
+
+"Книжка" = "Half-Kneeling Wood Chop";
+
+"Планка" = "Plank";
+
+"ПРЯМАЯ МЫШЦА ЖИВОТА" = "RECTUS ABDOMINAL MUSCLE";
+
+"ПРЯМАЯ МЫШЦА ЖИВОТА, КОСЫЕ МЫШЦЫ ПРЕССА" = "RECTUS ABDOMINAL MUSCLE, OBLIQUE ABDOMINAL MUSCLE";
+
+"МЫШЦЫ КОРА, ПРЯМАЯ МЫШЦА ЖИВОТА" = "CORE MUSCLE, RECTUS ABDOMINAL MUSCLE";
+
+"Примечание: \n \n-Выполняйте упражнение по возможности. Плавно опускайтесь вниз. \n \n-Не обязательно делать именно 20 повторений, делайте сколько получается." = "Note: \n \n-Bring your legs down smoothly, without sudden movements. \n \n-It is not necessary to do exactly 20 reps, do as many as you can.";
+
+"Примечание: \n \n-Руки за головой, локти направлены в стороны. Колени согнуты, угол в коленях 90 градусов. \n \n-Отрываем лопатки от пола и возвращаемся в исходное положение. \n \n-Поясница прижата к полу." = "Note: \n \n-Hands behind the head, elbows directed to the sides. Knees are bent, knee angle is 90 degrees. \n \n-We lift the shoulder blades off the floor and return to the starting position. \n \n-The lower back is pressed to the floor.";
+
+"Примечание: \n \n-Руки за головой, локти направлены в стороны. Поясница прижата к полу. \n \n-Скручивайтесь до прикосновения колена с локтем." = "Note: \n \n-Hands behind the head, elbows pointing to the sides. The lower back is pressed to the floor. \n \n-Twist until the knee touches the elbow.";
+
+"Примечание: \n \n-Поясница прямая, руки направленны параллельно полу, ноги с корпусом в складке под углом 90 градусов. \n \n-Если вы не можете выпрями ноги, можно немного согнуть ноги в коленях." = "Note: \n \n-The loin is straight, the arms are parallel to the floor, the angle between the legs and the body is 90 degrees. \n \n-If you cannot straighten your legs, you can bend your knees.";
+
+"Примечание: \n \n-Колени немного согнуты, поясница прямая. \n \n-Поднимайте корпус и колени одновременно, нужно максимально скруглиться. \n \n-В нижней точке голень параллельна полу, если нет дискомфорта в пояснице. В пояснице не выгибаемся." = "Note: \n \n-The knees are slightly bent, the lower back is straight. \n \n-Raise the body and knees at the same time, you should bring the body and knees to each other as much as possible. \n \n- The lower leg is parallel to the floor, if there is no discomfort in the lower back. Do not bend in the back.";
+
+"Примечание: \n \n-Мышцы пресса в напряжении, поясница прямая. Корпус ровный, колени выпрямлены. \n \n-Плечи не проваливаются, угол в локтях 90 градусов." = "Note: \n \n-The abdominal muscles are tense, the lower back is straight. Keep the body straight, the knees are straight. \n \n-The shoulders do not fall through, the angle at the elbows is 90 degrees.";
+
+"Гуд Морнинг" = "Good Morning";
+
+"Румынская тяга по одной ноге" = "Single Romanian deadlift";
+
+"Гуд Морнинг по одной ноге" = "Single Good Morning";
+
+"Подъем на носки" = "Raise Calves";
+
+"Подъем на носки по одной ноге" = "Single raise calf";
+
+"Приседания Плие" = "Wide Squat";
+
+"Sisi приседания" = "Sisi Squat";
+
+"Приведение бедра" = "Single adduction hip";
+
+"Сведение ног лёжа на спине" = "Hips adduction";
+
+"Махи лёжа по одной ноге" = "Single adduction";
+
+"Сгибание бедра по одной ноге" = "Curl hip";
+
+"Классические приседания" = "Squat";
+
+"Выпады назад" = "Lunge";
+
+"Выпады на месте" = "Lunge variation";
+
+"Фронтальный присед" = "Front Squat";
+
+"Болгарские выпады" = "Bulgarian lunge";
+
+"Выпады" = "Lunge variation";
+
+"Подъемы на носки сидя" = "Seated raise calves";
+
+"Pistol приседания" = "Pistol Squat";
+
+"Боковые выпады" = "Side Lunge";
+
+"БИЦЕПС БЕДРА, ЯГОДИЧНЫЕ МЫШЦЫ, МЫШЦЫ СТАБИЛИЗАТОРЫ СПИНЫ" = "HAMSTRING, GLUTEUS MUSCLES, MUSCLES OF THE BACK STABILIZERS";
+
+"ИКРОНОЖНЫЕ МЫШЦЫ" = "CALF MUSCLES";
+
+"ВНУТРЕННЯЯ, ЗАДНЯЯ, ПЕРЕДНЯЯ ПОВЕРХНОСТЬ БЕДРА" = "INNER, BACK, FRONT THIGH";
+
+"ПЕРЕДНЯЯ ПОВЕРХНОСТЬ БЕДРА" = "FRONT THIGH";
+
+"ПРИВОДЯЩИЕ МЫШЦЫ" = "ADDUCTOR MUSCLES";
+
+"ПЕРЕДНЯЯ, ЗАДНЯЯ ПОВЕРХНОСТЬ БЕДРА" = "FRONT, BACK THIGH";
+
+"БИЦЕПС БЕДРА" = "HAMSTRING";
+
+"ПЕРЕДНЯЯ, ЗАДНЯЯ ПОВЕРХНОСТЬ БЕДРА, ЯГОДИЧНЫЕ МЫШЦЫ" = "FRONT, BACK THIGH, GLUTEUS MUSCLES";
+
+"ПЕРЕДНЯЯ, ЗАДНЯЯ ПОВЕРХНОСТЬ БЕДРА, МАЛАЯ И СРЕДНЯЯ ЯГОДИЧНЫЕ" = "FRONT, BACK THIGH, MINIMUS AND MEDIUS GLUTEUS MUSCLES";
+
+"Примечание: \n \n-Спина прямая. Шею не задирайте вверх. \n \n-Колени чуть согнуты, наклоняйтесь вниз, сохраняя ровную спину, ноги на ширине плеч." = "Note: \n \n-Back straight. Do not lift your neck up. \n \n-Knees slightly bent, bend down, keeping your back straight, feet shoulder-width apart.";
+
+"Примечание: \n \n-Колени чуть согнуты. Спина прямая, взгляд вниз. Одна нога отставлена чуть назад. \n \n-Движение рук происходит перпендикулярно полу, к передней ноге. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The knees are slightly bent. The back is straight, looking down. One leg is slightly back. \n \n-The arms move perpendicular to the floor, towards the front leg. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Поясница прямая, взгляд вниз. Старайтесь выпрямить все тело в одну линию, параллельно полу.  \n \n-Для сохранения равновесия согните опорную ногу в колене. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The loin is straight, looking down. Try to straighten the whole body in one line, parallel to the floor. \n \n-To maintain balance, bend the supporting leg at the knee. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-В случае необходимости вы можете использовать отягощение, также для усиления нагрузки, можете подложить опору под носки ног." = "Note: \n \n-If necessary, you can use additional weight, also to increase the load, you can put a support under the supporting part of the foot so that the heel is lower.";
+
+"Примечание: \n \n-В случае необходимости вы можете использовать отягощение, также для усиления нагрузки, можете подложить опору под носки ног. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-If necessary, you can use additional weight, and to increase the load, you can put a support under the front of the foot so that the heel is lower. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Носки развернуты на 45 градусов. Опускайтесь вниз до параллели с полом, колени сонаправлены с носками. \n \n-Поясница прямая." = "Note: \n \n-Socks are rotated 45 degrees. Squat until your thigh is parallel to the floor. \n \n-Straight loin.";
+
+"Примечание: \n \n-Корпус ровный. Наклоняйтесь назад до предела своих возможностей, растягивая переднюю поверхность бедра, не допуская отрыва колен от пола. \n \n-Мышцы живота напряжены." = "Note: \n \n-Keep the body straight. Bend over to your limit, stretching the front of your thigh, keeping your knees off the floor. \n \n-The abdominal muscles are tense.";
+
+"Примечание: \n \n-Поясница прямая, опора на тазовую кость. \n \n-Рабочая нога выпрямлена в колене, в верхней точке фиксируйте ногу. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The loin is straight, support on the pelvic bone. \n \n-The working leg is straightened at the knee, fix the leg at the top point. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Колени могут быть чуть согнуты, во время выполнения угол в колене зафиксирован. \n \n-Спина и лопатки прижаты, отводите ноги в стороны до придела. Работайте в своей амплитуде, без резких движений." = "Note: \n \n-The knees can be bent a little, the angle in the knees is fixed during execution. \n \n-The back and shoulder blades are pressed, move your legs to the sides to the side-altar. Work in your amplitude, without sudden movements.";
+
+"Примечание: \n \n-Таз и спина прижаты к полу. \n \n-Выпрямите рабочую ногу в колене. При опускании ноги избегайте вращения корпуса вслед за ногой. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The pelvis and back are pressed to the floor. \n \n-Straighten the working leg at the knee. When lowering the leg, avoid rotating the body after the leg. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Живот в напряжении, спина прямая, взгляд направлен вниз. \n \n-Бедро рабочей ноги на одной линии с корпусом, параллельно полу. Сгибайте колено до 90 градусов. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The abdomen is tense, the back is straight, the gaze is directed downward. \n \n-The thigh of the working leg is in line with the body, parallel to the floor. Bend the knee to 90 degrees. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Ноги чуть шире плеч, носки сонаправлены с коленями, спина прямая, взгляд направлен вперёд или вверх. \n \n-Опускайтесь вниз до параллели с полом. Колени не должны выходить за носки." = "Note: \n \n-Legs are slightly wider than shoulders, back is straight, gaze is directed forward or up. \n \n-Squat until your thigh is parallel to the floor. Knees should not protrude beyond the toes.";
+
+"Примечание: \n \n-В нижней точке угол в коленях 90 градусов. Корпус наклонен чуть вперед, живот в напряжении, спина прямая, взгляд направлен вперёд или вверх. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-At the bottom, the knee angle is 90 degrees. The body is tilted slightly forward, the stomach is tense, the back is straight, the gaze is directed forward or up. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-В нижней точке угол в коленях 90 градусов. Корпус наклонен чуть вперед, живот в напряжении, спина прямая, взгляд направлен вперёд или вверх. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-At the bottom, the knee angle is 90 degrees. The body is tilted slightly forward, the stomach is tense, the back is straight, the gaze is directed forward or up. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Ноги на ширине плеч, носки сонаправлены с коленями, спина прямая, взгляд направлен вперёд или вверх. \n \n-Опускайтесь вниз до параллели с полом. Колени не должны выходить за носки." = "Note: \n \n-Legs wider than shoulder width, back straight, look forward or up. \n \n-Squat down until your thigh is parallel to the floor. The knees should not protrude beyond the toes.";
+
+"Примечание: \n \n-Спина прямая, взгляд направлен вперёд или вверх. \n \n-Опускайтесь до угла в колене передней ноги 90 градусов, колено сонаправлено ступне. Избегайте завала колена. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The back is straight, the gaze is directed forward or up. \n \n-Go down to the knee angle of the front leg 90 degrees, the knee is aligned with the foot. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Спина прямая, взгляд направлен вперёд или вверх. \n \n-В нижней точке угол в коленях 90 градусов, не упирайтесь коленом задней ноги в пол, оно должно быть в минимальном расстоянии от пола. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The back is straight, the gaze is directed forward or up. \n \n-At the lowest point, the knee angle is 90 degrees, do not rest your back knee on the floor, it should be at a minimum distance from the floor. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Это упражнение подойдёт,тем у кого есть ограничения с коленями и спиной. \n \n-Также для усиления нагрузки вы можете подложить опору под носки ног." = "Note: \n \n-This exercise is suitable for those with knee and back problems. \n \n-You can also place a support under your toes to increase the load.";
+
+"Примечание: \n \n-Старайтесь сесть как можно ниже вниз на опорную ногу, не заваливаясь в строну. \n \n-Другую ногу и руки держите вытянутыми, для сохранения баланса. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-Try to sit as low as possible on your supporting leg, without leaning to the side. \n \n-Keep the other leg and arms outstretched to maintain balance. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Спина прямая, взгляд направлен вперёд или вверх. \n \n-В нижней точке угол в коленях 90 градусов, не упирайтесь коленом задней ноги в пол, оно должно быть в минимальном расстоянии от пола. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The back is straight, the gaze is directed forward or up. \n \n-At the lowest point, the knee angle is 90 degrees, do not rest your back knee on the floor, it should be at a minimum distance from the floor. \n \nThe number of repetitions is recommended for each leg.";
+
+"Лодочка" = "Superman";
+
+"Вертикальные отжимания" = "Dive Bomber Push-Up";
+
+"Лодочка со свидением лопаток" = "Superman Variation";
+
+"Лодочка 2" = "Superman Variation";
+
+"Тяга к поясу в наклоне" = "Dumbbell Row";
+
+"Пулловер" = "Pull-Over";
+
+"Пулловер лёжа" = "Pull-Over Variation";
+
+"Тяга к поясу в упоре" = "Dumbbell Single-arm Row";
+
+"МЫШЦЫ СТАБИЛИЗАТОРЫ СПИНЫ" = "MUSCLES OF THE BACK STABILIZERS";
+
+"МЫШЦЫ СПИНЫ, ТРИЦЕПС, ПЛЕЧИ" = "BACK MUSCLES, TRICEPS, SHOULDERS";
+
+"МЫШЦЫ СТАБИЛИЗАТОРЫ СПИНЫ, ШИРОЧАЙШИЕ МЫШЦЫ СПИНЫ" = "MUSCLES OF THE BACK STABILIZERS, LATISSIMUS DORSI";
+
+"СТАБИЛИЗАТОРЫ И РОМБОВИДНЫЕ МЫШЦЫ СПИНЫ, ЗАДНЯЯ ДЕЛЬТА" = "MUSCLES OF THE BACK STABILIZERS END RHUMBOID MUSCLES, BACK DELT";
+
+"МЫШЦЫ СПИНЫ" = "BACK MUSCLES";
+
+"Примечание: \n \n-Отрывайте ноги и корпус от пола на сколько это возможно, шея расслаблена, не прогибайтесь в пояснице сильно. \n \n-Фиксируйтесь в верхней точке." = "Note: \n \n-Lift your legs and body off the floor as much as possible, neck relaxed, do not bend in the lower back too much. \n \n-Fix at the top point.";
+
+"Примечание: \n \n-Колени немного согнуты, во время выполнения угол в коленях зафиксирован. \n \n-Держите корпус ровно, поясница прямая, опускайтесь строго по вертикали вниз. \n \n-Вес тела перенесите на руки, опускайтесь до угла в локтях 90 градусов." = "Note: \n \n-Knees are slightly bent, while performing the angle at the knees is fixed. \n \n-Keep your body straight, lower back straight, descend strictly vertically down. \n \n-Transfer your body weight to your hands, lower yourself until you reach 90 degrees at the elbows.";
+
+"Примечание: \n \n-Отрывайте корпус от пола на сколько это возможно, шея расслаблена, не прогибайтесь в пояснице сильно. \n \n-Осуществляйте движение локтями назад, фиксируйтесь в верхней точке." = "Note: \n \n-Lift the body off the floor as much as possible, the neck is relaxed, do not bend in the lower back. \n \n-Move your elbows back, fix at the top point.";
+
+"Примечание: \n \n-Отрывайте корпус от пола на сколько это возможно, шея расслаблена, не прогибайтесь в пояснице сильно. \n \n-Осуществляйте движение кистями назад, фиксируйтесь в верхней точке." = "Note: \n \n-Lift the body off the floor as much as possible, the neck is relaxed, do not bend in the lower back. \n \n-Move your palms back, fix at the top point.";
+
+"Примечание: \n \n-Колени чуть согнуты, спина прямая. \n \n-Движение кистей осуществляется вдоль бёдер, уводите локти за линию спины." = "Note: \n \n-The knees are slightly bent, the back is straight. \n \n-The palms are moved along the hips, take the elbows behind the line of the back.";
+
+"Примечание: \n \n-Локти немного согнуты, во время выполнения угол в локтях зафиксирован. \n \n-Опора на лопатки, работа осуществляется плечевыми суставами, не старайтесь поднять таз выше линии корпуса." = "Note: \n \n-The elbows are slightly bent, during the execution the angle at the elbows is fixed. \n \n-Support on the shoulder blades, the work is done with the shoulder joints, do not try to raise the pelvis above the line of the body.";
+
+"Примечание: \n \n-Локти немного согнуты, во время выполнения угол в локтях зафиксирован. Грудная клетка раскрыта. \n \n-В нижней точке руки находятся на весу, делайте паузу." = "Note: \n \n-Elbows are slightly bent, during execution the angle at the elbows is fixed. The thoracic department is open. \n \n-At the lowest point, the hands should not touch the floor, pause at the lowest point.";
+
+"Примечание: \n \n-Опорная нога завалена вперёд и немного согнута, спина прямая. \n \n-В нижней точке плечо завалено вниз, рука выпрямлена, в верхней точке угол в локте 90 градусов, уводите локоть за линию спины. \n \nКоличество повторений рекомендовано к выполнению на каждую руку." = "Note: \n \n-The supporting leg is piled forward and slightly bent, the back is straight. \n \n-At the lower point, the shoulder is piled down, the arm is straightened, at the upper point the angle at the elbow is 90 degrees, take the elbow behind the back line. \n \n The number of repetitions is recommended for each hand.";
+
+"Гуд Морнинг" = "Good Morning ";
+
+"Румынская тяга по одной ноге" = "Single Romanian deadlift";
+
+"Гуд Морнинг по одной ноге" = "Single Good Morning";
+
+"Махи вверх" = "Kick";
+
+"Махи в бок" = "Side abduction";
+
+"Махи в бок из положения планки" = "Side abduction variation";
+
+"Ягодичный мостик" = "Glute bridge";
+
+"Ягодичный мостик одной ногой" = "Singe Glute bridge";
+
+"Махи в бок стоя" = "Side abduction";
+
+"Обратная экстензия" = "Froggers";
+
+"Приседания плие" = "Wide Squat";
+
+"Махи в бок лёжа" = "Side abduction variation";
+
+"Выпады на месте" = "Lunge";
+
+"Классические приседания" = "Squat";
+
+"Выпады назад" = "Lunge variation";
+
+"Выпады на месте 2" = "Lunge variation";
+
+"Фронтальный присед" = "Front Squat";
+
+"Болгарские выпады" = "Bulgarian lunge";
+
+"Диагональные выпады" = "Side lunge";
+
+"ЯГОДИЧНЫЕ МЫШЦЫ, ЗАДНЯЯ ПОВЕРХНОСТЬ БЕДРА" = "GLUTEUS MUSCLES, BACK THIGH";
+
+"ЯГОДИЧНЫЕ МЫШЦЫ" = "GLUTEUS MUSCLES";
+
+"МАЛАЯ И СРЕДНЯЯ ЯГОДИЧНЫЕ МЫШЦЫ" = "MINIMUS AND MEDIUS GLUTEUS MUSCLES";
+
+"МАЛАЯ И СРЕДНЯЯ ЯГОДИЧНЫЕ МЫШЦЫ, МЫШЦЫ КОРА" = "MINIMUS AND MEDIUS GLUTEUS MUSCLES, CORE MUSCLE";
+
+"БОЛЬШАЯ ЯГОДИЧНАЯ МЫШЦА" = "MAXIMUS GLUTEUS MUSCLES";
+
+"МЫШЦЫ СТАБИЛИЗАТОРЫ СПИНЫ, ЯГОДИЧНЫЕ МЫШЦЫ" = "MUSCLES OF THE BACK STABILIZERS, GLUTEUS MUSCLES";
+
+
+"ЗАДНЯЯ, ПЕРЕДНЯЯ ПОВЕРХНОСТЬ БЕДРА, ЯГОДИЧНЫЕ МЫШЦЫ" = "BACK, FRONT THIGH, GLUTEUS MUSCLES";
+
+"ЗАДНЯЯ, ПЕРЕДНЯЯ ПОВЕРХНОСТЬ БЕДРА, МАЛАЯ И СРЕДНЯЯ ЯГОДИЧНЫЕ" = "BACK, FRONT THIGH, MINIMUS AND MEDIUS GLUTEUS MUSCLES";
+
+"Примечание: \n \n-Спина прямая. Шею не задираем наверх. Колени чуть согнуты, наклоняйтесь вниз, сохраняя ровную спину, ноги на ширине плеч. \n \n-Также вы можете чувствовать мышцы спины, т.к они тоже включаются в работу." = "Note: \n \n-The back is straight. Don't lift our neck up. Knees slightly bent, bend down, keeping a straight back, legs shoulder width apart. \n \n-You can also feel the back muscles, because they are also included in the work.";
+
+"Примечание: \n \n-Колени чуть согнуты, спина прямая. Опускайтесь отводя таз назад, чувствуя натяжение задней поверхности бедра. \n \n-Также вы можете чувстовать мышцы спины, т.к они тоже включаются в работу. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-Knees slightly bent, back straight. Lower yourself by pulling the pelvis back, feeling the tension of the back of the thigh. \n \n-You can also feel the back muscles, because they are also included in the work. \n \n The number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Поясница прямая, старайтесь выпрямить все тело в одну линию. \n \n-Для сохранения равновесия согните опорную ногу в колене. \n \n-Также вы можете чувстовать мышцы спины, т.к они тоже включаются в работу. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The lower back is straight, try to straighten the whole body in one line. \n \n-To maintain balance, bend the supporting leg at the knee. \n \n-You can also feel the back muscles, because they are also included in the work. \n \n The number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Живот в напряжении, спина прямая, взгляд направлен вниз. \n \n-В верхней точке бедро рабочей ноги на одной линии с корпусом, параллельно полу, сгиб в колене 90 градусов. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The stomach is tense, the back is straight, the gaze is directed downwards. \n \n-At the upper point, the thigh of the working leg is in line with the body, parallel to the floor, the knee bend is 90 degrees. \n \n The number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Живот в напряжении, спина прямая, взгляд направлен вниз. Угол в коленях 90 градусов. \n \n-Работайте в комфортной амплитуде. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The stomach is tense, the back is straight, the gaze is directed downwards. The angle at the knees is 90 degrees. \n \n-Work in a comfortable amplitude. \n \n The number of repetitions is recommended for each leg."; 
+
+"Примечание: \n \n-Старайтесь не проваливаться в плече опорной руки, корпус ровный, взгляд прямо, мышцы живота в напряжении. \n \n-Отводите бедро в сторону на столько на сколько это возможно. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-Keep the body straight, look straight, abdominal muscles tense. \n \n-Pull the hip aside as much as possible. \n \n The number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Опора на пятки, таз слегка подкручен на себя. Живот в напряжении. Спина прямая, поднимайте таз до прямой линии - бедра, корпус." = "Note: \n \n - Support on the heels, the pelvis is slightly twisted on itself. The abdominal muscles are tense. Your back is straight, raise your pelvis to a straight line - pelvis, hips, torso.";
+
+"Примечание: \n \n-Опора на пятку, таз слегка подкручен на себя. Живот в напряжении. Спина прямая, поднимайте таз до прямой линии - бедра, корпус. Верхняя нога перпендикулярно полу. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-Support on the heel, the pelvis is slightly twisted on itself. The abdominal muscles are tense. The back is straight, raise the pelvis to a straight line - pelvis,hips, body. \n \n The number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Корпус и опорная нога в одной плоскости, колено опорной ноги прямое. Поднимайте рабочую ногу невысоко, так чтобы корпус оставался ровным. \n \n-Если теряете равновесие, можете опереться о стену. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n- The body and the supporting leg are in the same plane, the knee of the supporting leg is straight. Slightly lift the working leg. \n \n - If you lose your balance, you can hold on to the wall. \n \n The number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Отрывайте бёдра от пола насколько это возможно, колени смотрят в стороны, шея расслаблена. \n \n-Не прогибайтесь в пояснице сильно, в верхней точке сжимайте ягодицы." = "Note: \n \n-Lift your hips off the floor as far as possible, knees facing to the sides, neck relaxed. \n \n-Do not bend in the lower back much, squeeze the buttocks at the top point.";
+
+"Примечание: \n \n-Ноги шире плеч, носки направлены в стороны, колени сонаправлены с носками, спина прямая. \n \n-Опускайтесь вниз до параллели с полом, угол в коленях 90 градусов." = "Note: \n \n-The legs are wider than the shoulders, the socks are pointed to the sides, the knees are aligned with the socks, the back is straight. \n \n-At the bottom point, the angle at the knees is 90 degrees.";
+
+"Примечание: \n \n-Корпус ровный, живот в напряжении, не проваливаемся в плече, взгляд прямо, отводим бедро в сторону, но не задираем сильно высоко. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-Keep the body straight, the stomach is tense, look straight, pull the hip to the side, but do not lift it too high. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Спина прямая, взгляд направлен вперёд или вверх. В нижней точке угол в коленях 90 градусов. \n \n-Колено должно быть  максимально близко к полу, но не касаться его. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The back is straight, the gaze is directed forward or upward. At the bottom point, the angle at the knees is 90 degrees. \n \n-The knee should be as close to the floor as possible, but not touch it. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Ноги чуть шире плеч, колени сонаправлены с носками, спина прямая, взгляд направлен вперёд или вверх. \n \n-Опускайтесь вниз до параллели с полом. Колени не должны выходить за носки." = "Note: \n \n-The legs are slightly wider than the shoulders, the knees are aligned with the socks, the back is straight, the gaze is directed forward or upward. \n \n-At the bottom point, the angle at the knees is 90 degrees. The knees should not go beyond the socks.";
+
+"Примечание: \n \n-В нижней точке угол в коленях 90 градусов. Корпус наклонен чуть вперед, живот в напряжении, спина прямая, взгляд направлен вперёд или вверх. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-At the bottom point, the angle at the knees is 90 degrees. The body is tilted slightly forward, the stomach is tense, the back is straight, the gaze is directed forward or upward. \n \n The number of repetitions is recommended for each leg."; 
+
+"Примечание: \n \n-В нижней точке угол в коленях 90 градусов. Корпус наклонен чуть вперед, живот в напряжении, спина прямая, взгляд направлен вперёд или вверх. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n\n-At the bottom point, the angle at the knees is 90 degrees. The body is tilted slightly forward, the stomach is tense, the back is straight, the gaze is directed forward or upward. \n\n The number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Спина прямая, взгляд направлен вперёд или вверх. Колени сонаправлены с носками. \n \n-Бёдра стараемся опустить до параллели с полом. Колени не заваливаем во внутрь." = "Note: \n \n-The back is straight, the gaze is directed forward or upward. The knees are aligned with the socks. \n \n-We try to lower the hips to a parallel with the floor. Do not point your knees inwards.";
+
+"Примечание: \n \n-Спина прямая, взгляд направлен вперёд или вверх. \n \n-Старайтесь держать угол в колене передней ноги 90 градусов и не наваривайтесь на него. Носок задней ноги можно располагать по-другому. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The back is straight, the gaze is directed forward or upward. \n \n-Try to keep the angle in the knee of the front leg 90 degrees. The toe of the hind leg can be positioned differently. \n \nThe number of repetitions is recommended for each leg.";
+
+"Примечание: \n \n-Спина прямая, взгляд направлен вперёд или вверх. В нижней точке угол в коленях 90 градусов. \n \n-Не упирайтесь коленом задней ноги в пол, оно должно быть в минимальном расстоянии от пола. \n \nКоличество повторений рекомендовано к выполнению на каждую ногу." = "Note: \n \n-The back is straight, the gaze is directed forward or upward. At the bottom point, the angle at the knees is 90 degrees. \n \n-Do not rest the knee of the hind leg on the floor, it should be at a minimum distance from the floor. \n \n The number of repetitions is recommended for each leg.";
+
+"3 x 30 сек." = "3 x 30 sec.";
+
+"Планируете снова начать заниматься спортом после родов? Хотите сбросить набранный во время беременности вес, убрать послеродовой живот или вернуться в свою дородовую форму?
+
+В этом разделе рекомендованы самые эффективные упражнения для восстановления после родов для разного этапа восстановления, а так же упражнения, которые безопасно можно выполнять во время беременности.
+
+Данные упражнения помогут укрепить мышцы спины, пресса, мышцы тазового дна. Упражнения направленны на улучшение функций пресса с помощью трех методов: дыхание, активация и сокращения мышц пресса, которые можно и нужно выполнять при диастазе.
+
+В этом разделе упражнения разделены на три этапа вашего послеродового восстановления:
+сразу после родов, после прохождения начальных упражнений и после восстановления функционирования  тела.
+
+Важно:
+       - Это индивидуальный процесс. Учитывайте индивидуальные задачи, наличие заболеваний или осложнений;
+- Не стоит спешить, чтобы быстрее восстановиться. Поначалу вы сможете выполнять упражнения в течение пары минут за один раз. Затем объем тренировок может быть средней интенсивности до 20–30 минут в день 5-6 дней в неделю. Не ставьте себе задачу как можно быстрее вернуться к добеременной форме. Долгосрочные цели важнее быстрых результатов;
+- Ориентируйтесь на свой личный уровень физической подготовки. Учитывайте, занимались ли вы спортом до беременности и во время нее. Если раньше вы спортом не занимались, нужно подходить к этому особенно осторожно и крайне медленно увеличивать продолжительность или интенсивность тренировок;
+- Кормящим мамам нужно подходить к спорту с особой осторожностью. Пейте достаточное количество  воды, питайтесь правильно и тренируйтесь в среднем темпе, чтобы не устать. Рекомендуется покормить ребенка перед занятиями, а на тренировку надеть поддерживающий бюстгальтер, чтобы в груди не возникало неприятных ощущений;
+- Если у вас недавно было кесарево, не стоит поднимать тяжести. Лучше всего проконсультироваться с врачом. Как правило, специалисты советуют не поднимать ничего тяжелее ребенка в течение первых шести-восьми месяцев после родов;
+- Лучше закрепить за тренировками определенное время. Мамы обычно ставят на первое место семейные дела, но нельзя забывать, что спорт после родов очень важен для здоровья и хорошего самочувствия. Рекомендуется выделить постоянное время для тренировок, чтобы в суматохе дел о них не забывать.
+
+
+Польза:
+- Улучшение самочувствия;
+- Прилив энергии;
+- Снижение веса,
+- Улучшение аэробной выносливости;
+- Подтянутый пресс;
+- Уменьшение проявлений послеродовой депрессии и тревожности;
+- Улучшение качества сна.
+
+
+ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ:
+ Когда можно начинать заниматься спортом после родов?
+ - В случае естественных родов без осложнений, рекомендуется делать легкие упражнения уже через пару дней. Если у вас было кесарево сечение или осложнения, следует подождать 4-6 недель. Проконсультируйтесь с врачом, какой вариант подойдет в вашем случае.
+ Можно ли заниматься спортом при грудном вскармливании?
+ - Можно. Рекомендовано пить побольше воды, чаще отдыхать и полноценно питаться для восполнения энергии.  Что делать, если у меня диастаз прямой мышцы живота?
+ - Важно уделять внимание укреплению поперечной мышцы живота, работать с дыханием, налаживать чувствительность. Исключать упражнения с сильным натуживанием, обычными скручиваниями, упражнениям с 4-мя точками опоры.
+
+Можно ли заниматься беременным?
+
+- Если у Вас нет противопоказаний, да.
+
+
+Поддержание и работа поперечной мышцы живота во время беременности помогает правильно носить ребенка, избегая при этом таких симптомов, как боль в пояснице, обычно связанная с беременностью. Это поможет вам быстрее восстановиться после родов.
+
+Во время беременности и родов организм женщины проходит через множество трансформаций. Необходимо дать время на физическое и психическое восстановление. Если вы готовы вернуться к занятиям спортом после родов, не спешите и получайте удовольствие от процесса.
+
+
+Отказ от ответственности: Обратите внимание, что каждый этап упражнений, перечисленный далее, подходит для разного этапа вашего послеродового восстановления. Если вы испытываете боль в спине или тазовом дне после родов, проконсультируйтесь со своим врачом или физиотерапевтом тазового дна." = "Are you planning to start exercising again after giving birth? Do you want to lose the weight gained during pregnancy, remove the postpartum belly or return to your prenatal form?
+            
+This section recommends the most effective postpartum recovery exercises for different stages of recovery, as well as exercises that can be safely performed during pregnancy.
+
+These exercises will help strengthen the muscles of the back, abs, pelvic floor muscles. Exercises are aimed at improving the functions of the press using three methods: breathing, activation and contraction of the muscles of the press, which can and should be performed with diastasis.
+
+In this section, the exercises are divided into three stages of your postpartum recovery:
+immediately after giving birth, after passing the initial exercises and after restoring the functioning of the body.
+
+Important:
+       - This is an individual process. Consider individual tasks, the presence of diseases or complications;
+- Do not rush to recover faster. At first, you will be able to do the exercises for a couple of minutes at a time. Then the amount of training can be of medium intensity up to 20-30 minutes a day 5-6 days a week. Do not set yourself the task of returning to the pre-pregnancy form as soon as possible. Long-term goals are more important than quick results;
+- Focus on your personal level of physical fitness. Consider whether you were engaged in sports before and during pregnancy. If you have not done sports before, you need to approach this especially carefully and very slowly increase the duration or intensity of training;
+- Nursing mothers need to approach sports with extreme caution. Drink enough water, eat right and train at an average pace so as not to get tired. It is recommended to feed the child before classes, and to put on a supportive bra for training so that there are no unpleasant sensations in the chest;
+- If you recently had a caesarean, you should not lift weights. It is best to consult a doctor. As a rule, experts advise not to lift anything heavier than a baby during the first six to eight months after giving birth;
+- It is better to fix a certain time for training. Mothers usually put family matters first, but we must not forget that sports after childbirth is very important for health and well-being. It is recommended to allocate constant time for training so that you do not forget about them in the turmoil of affairs.
+
+
+Benefit:
+- Improvement of well-being
+- A surge of energy
+- Weight loss
+- Improvement of aerobic endurance
+- Tightened abs
+- Reduction of manifestations of postpartum depression and anxiety
+- Improving the quality of sleep
+
+
+FREQUENTLY ASKED QUESTIONS:
+ When can I start exercising after giving birth?
+ - In the case of natural childbirth without complications, it is recommended to do light exercises after a couple of days. If you had a cesarean section or complications, you should wait 4-6 weeks. Consult with your doctor, which option is suitable in your case.
+ Is it possible to exercise while breastfeeding?
+ - You can. It is recommended to drink more water, rest more often and eat well to replenish energy.  What should I do if I have a diastasis of the rectus abdominis muscle?
+ - It is important to pay attention to strengthening the transverse abdominal muscle, work with breathing, adjust sensitivity. Exclude exercises with strong straining, ordinary twisting, exercises with 4 points of support.
+
+Is it possible to engage in pregnant women?
+
+- If you have no contraindications, yes.
+
+
+Maintaining and working the transverse abdominal muscle during pregnancy helps to carry the baby properly, while avoiding symptoms such as lower back pain, usually associated with pregnancy. This will help you recover faster after childbirth.
+
+During pregnancy and childbirth, a woman's body goes through many transformations. It is necessary to give time for physical and mental recovery. If you are ready to return to sports after giving birth, take your time and enjoy the process.
+
+
+Disclaimer: Please note that each exercise stage listed below is suitable for a different stage of your postpartum recovery. If you experience back or pelvic floor pain after giving birth, consult your doctor or pelvic floor physiotherapist.";
+
+
+
+"Диафрагмальное дыхание" = "Basic Breath";
+
+"Касание носков пола" = "Toe Taps";
+
+"Скольжение" = "Lying Heel Tap + Leg Lift";
+
+"Подъем ног" = "Elevated Leg Extension + Leg Drop";
+
+"Вращение ногой" = "Elevated Leg Extension + 2 Circles";
+
+"Выпрямление ног" = "Elevated Bent Knee V-Taps";
+
+"Подтягивание ноги к себе" = "Lying Bent Knee Pulls";
+
+"Диафрагмальное дыхание" = "Basic Breath";
+
+
+
+"Касание носков пола" = "Toe Taps";
+
+"Боковая планка" = "Side Plank";
+
+"Лодочка" = "Superman";
+
+"Спинной баланс" = "Superwoman";
+
+"Касание носков" = "Elevated First Position Kick Outs";
+
+"Кошка" = "Cat-Cow";
+
+"Ягодичный мостик" = "Glute Bridge";
+
+"Приведение бедра" = "Single Adduction";
+
+"Боковое отведение" = "Outside Leg Lift";
+
+"Выпрямление ноги" = "Single Leg Extensions";
+
+"Ягодичный мостик" = "Glute Bridge Variation";
+
+"Боковая планка" = "Side Plank Toe Touch";
+
+
+
+"Боковая планка" = "Side Plank";
+
+"Спинной баланс" = "Superwoman";
+
+"Мах ногой" = "Table Top Rear Kick + Knee to Elbow";
+
+"Повороты корпуса" = "Seated Side Sweeps";
+
+"Ягодичный мостик" = "Glute Bridge";
+
+"Мах ногой" = "Kick Back";
+
+"Обратная планка" = "Plank Variation With Abbduction";
+
+"Диагональное отведение" = "Single Sided Dead Bug";
+
+"Приседания" = "Squat";
+
+"Книжка" = "Half-Kneeling Wood Chop";
+
+"Махи через стороны" = "Around The World";
+
+"Боковая планка" = "Side Plank Toe Touch";
+
+
+
+"НА КАЖДУЮ НОГУ" = "EACH LEG";
+
+"НА КАЖДУЮ СТОРОНУ" = "ON EACH SIDE";
+
+"ПООЧЕРЁДНО" = "ALTERNATELY";
+
+"СО СВЕДЕНИЕМ" = "VARIATION";
+
+"ПО ОДНОЙ НОГЕ" = "VARIATION";
+
+"ВПЕРЁД" = "VARIATION";
+
+"С ОТВЕДЕНИЕМ БЕДРА" = "EACH LEG";
+
+"ПООЧЕРЁДНО РУК И НОГ" = "ALTERNATELY";
+
+"КЛАССИЧЕСКИЕ" = "";
+
+"В ПОДЪЁМЕ" = "VARIATION";
+
+"ПОЛА" = "VARIATION";
+
+"СТОЯ" = "VARIATION";
+
+"С НЕЙТРАЛЬНЫМ ПОЛОЖЕНИЕМ" = "POSE";
+
+"ОТ СЕБЯ" = "VARIATION";
+
+"ЛЁЖА" = "IN THE PRONE POSITION";
+
+"СИДЯ" = "TO THE SITTING POSITION";
+
+"СО СВЕДЕНИЕМ ЛОПАТОК" = "VARIATON";
+
+
+
+"В данном разделе собраны упражнения для восстановления после родов, которые разбиты на группы - по уровню нагрузки" = "This section contains exercises for recovery after childbirth, which are divided into groups - according to the level of load";
+
+"Слабая нагрузка" = "Light Level";
+
+"Средняя" = "Middle";
+
+"Тяжелая" = "Hard";
+
+"Данные упражнения не являются готовым комплексом, а лишь собраны по уровням сложности, формируйте упражнения в любом удобном для Вас порядке" = "These exercises are not a ready-made complex, but only collected by difficulty levels, form a list of exercises yourself in any order convenient for you";
+
+"Примечание: \n \nДля правильного выполнения, вы можете положить одну руку на грудь, а другую на пупок. На вдохе надувается живот, рука лежащая на пупке, поднимается вверх, на выдохе — опускается вниз. При этом грудь остается неподвижной — рука на груди соответственно тоже. Сократите количество вдохов, если вам это даётся трудно. Когда вы сможете это делать не напрягаясь, попробуйте так дышать все время, диафрагмальное дыхание должно войти в привычку и происходить непроизвольно." = "Note: \n \nFor proper execution, you can put one hand on your chest and the other on your navel. On the inhale, the stomach inflates, the hand lying on the navel rises up, on the exhale it falls down. At the same time, the chest remains motionless — the hand on the chest, respectively, too. Reduce the number of breaths if it is difficult for you. When you can do it without straining, try to breathe like this all the time, diaphragmatic breathing should become a habit and occur involuntarily.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. На выдохе касайтесь носком пола, со вдохом, напрягая пресс возвращайте ногу в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n \nThe lower back is tightly pressed to the floor. On exhalation, touch the floor with your toe, with an inspiration, straining the press, return the leg to its original position. \n \nControl the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. На выдохе скользите пяткой по полу, до тех пор, пока поясница будет оставаться прижатой к полу. Со вдохом, напрягая пресс, возвращайте ногу в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n\nThe lower back is tightly pressed to the floor. As you exhale, slide your heel along the floor until the lower back remains pressed to the floor. With a sigh, straining the press, return the leg to the starting position. \n \nControl the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. Положите руки на живот, выполните «диафрагмальное дыхание» 1-2 вдоха. На выдохе опускайте ногу, до тех пор, пока поясница будет оставаться прижатой к полу. Со вдохом, напрягая пресс, возвращайте ногу в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n\nThe lower back is tightly pressed to the floor. Put your hands on your stomach, perform 'diaphragmatic breathing' 1-2 breaths. As you exhale, lower your leg until the lower back remains pressed to the floor. With a sigh, straining the press, return the leg to the starting position. \n \nControl the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. Во время упражнения таз остаётся неподвижен. На выдохе выполните круговое движение ногой. Со вдохом, напрягая пресс, возвращайте в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n\nThe lower back is tightly pressed to the floor. During the exercise, the pelvis remains stationary. On exhalation, perform a circular motion with your foot. With a sigh, straining the press, return to the starting position. \n \nControl the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. На выдохе выпрямите ноги. Со вдохом, колени направлены в стороны, возвращайте в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n\nThe lower back is tightly pressed to the floor.  As you exhale, straighten your legs. With a sigh, knees pointing to the sides, return to the starting position. \n \nControl the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nПоясница прижата к полу. На выдохе подтяните ногу к себе, стараясь напрячь мышцы пресса. Со вдохом, возвращайте в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна прогибаться, не должно быть дискомфорта и болевых ощущений." = "Note: \n\nThe lower back is pressed to the floor. As you exhale, pull your leg towards you, trying to tighten the muscles of the press. With an inspiration, return to the starting position. \n \nControl the lower back, during exercises, it should not bend, there should be no discomfort and pain.";
+
+"Примечание: \n \nКорпус ровный, все суставы на одной линии. Опорная рука перпендикулярна полу. Живот в напряжении. С выдохом приподнимаем корпус и удерживаем его в этом положении. Взгляд направлен прямо." = "Note: \n \nThe whole body is on the same line, all joints are on the same line.  The abdominal muscles are tense. Exhale, lift the body and hold it in this position. The gaze is directed straight.";
+
+"Примечание: \n \nШея на одной линии с позвоночником. На выдохе приподнимите грудной отдел и сведите лопатки, на входе вернитесь в исходное положение, расслабьтесь." = "Note: \n\nNeck is in line with the spine. On exhalation, lift the chest and bring the shoulder blades together, return to the starting position, relax.";
+
+"Примечание: \n \nВстаньте на четвереньки. Живот в напряжении. Спина прямая, шея на одной линии с позвоночником. С выдохом, напрягая мышцы пресса приведите правую ногу к левому локтю, затем аналогично с другой стороны. Работайте в своей амплитуде. Во время упражнения спина прямая." = "Note: \n\nGet on all fours. The abdominal muscles are tense, the back is straight, the neck is in line with the spine. With an exhalation, straining the muscles of the press, lift the right leg to the left elbow, then similarly from the other side. Work in your amplitude. During the exercise, the back is straight.";
+
+"Примечание: \n \nВстаньте на четвереньки. Исходное положение - спина прямая, шея на одной линии с позвоночником. С выдохом, максимально округлите спину, вытягивайте позвонок за позвонком, на вдохе вернитесь в исходное положение, не прогибайтесь в пояснице, старайтесь держать мышцы пресса в напряжении." = "Note: \n\nGet on all fours. The back is straight, the neck is in line with the spine. With exhalation, round your back as much as possible, stretch vertebra by vertebra, return to the starting position on inspiration, do not bend in the lower back, try to keep the muscles of the press in tension.";
+
+"Примечание: \n \nСпина прямая, живот в тонусе, лопатки прижаты к полу. Таз слегка подкручен. Толкнитесь пятками, оторвите таз от пола. Не прогибайтесь в спине и старайтесь лопатки не отрывать от пола, сожмите ягодицы на подъеме, затем вернитесь в исходное положение." = "Note: \n \nThe back is straight, the abdominal muscles are tense, the shoulder blades are pressed to the floor. Push with your heels, lift the pelvis off the floor. Do not bend in the back and try not to lift your shoulder blades off the floor, squeeze your buttocks when lifting, then return to the starting position.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Во время упражнения таз остаётся неподвижен. На вдохе отведите ногу в сторону, но так, что бы таз остался на месте. Затем с выдохом возвращайте в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n \nThe lower back is tightly pressed to the floor. During the exercise, the pelvis remains stationary. As you inhale, pull your leg to the side, but so that the pelvis remains in place. Then exhale and return to the starting position. \n \nControl the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nОпорная рука перпендикулярна полу. Взгляд прямо. Мышцы пресса в напряжении. С выдохом поднимите бедро наверх, со вдохом вернитесь в исходное положение." = "Note: \n \nLook straight ahead. The muscles of the press are tense. Exhale, lift your hip up, inhale, return to the starting position.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. Положите руки на живот , выполните «диафрагмальное дыхание» 1-2 вдоха. На выдохе опускайте ногу, до тех пор, пока поясница будет оставаться прижатой к полу. Со вдохом, напрягая пресс, возвращайте ногу в исходное положение. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n\nThe lower back is tightly pressed to the floor. Put your hands on your stomach, perform 'diaphragmatic breathing' 1-2 breaths. As you exhale, lower your leg until the lower back remains pressed to the floor. With a sigh, straining the press, return the leg to the starting position. \n \n Control the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nСпина прямая, живот в тонусе, лопатки прижаты к полу. Таз слегка подкручен. Толкнитесь пятками, оторвите таз от пола, сожмите ягодичные мышцы и сведите колени, напрягая приводящие мышцы. \n \nНе прогибайтесь в спине и старайтесь лопатки не отрывать от пола, затем вернитесь в исходное положение." = "Note: \n\nThe back is straight, the abdominal muscles are tense, the shoulder blades are pressed to the floor. Push with your heels, lift your pelvis off the floor, squeeze the gluteal muscles and bring your knees together, straining the adductor muscles. \n\n Do not bend in the back and try not to lift your shoulder blades off the floor, then return to the starting position.";
+
+"Примечание: \n \nКорпус ровный, все суставы на одной линии. Опорная рука перпендикулярна полу. Живот в напряжении. С выдохом плавно скручиваемся, взгляд по направлению руки, со вдохом возвращаемся в исходное положение." = "Note: \n\n The body is on the same line, all joints are on the same line. The abdominal muscles are tense. With an exhalation, we curl smoothly, look in the direction of the hand, with an inspiration we return to the starting position.";
+
+"Примечание: \n \nВстаньте на четвереньки. Живот в напряжении. Спина прямая, шея на одной линии с позвоночником. С выдохом, напрягая мышцы пресса, приведите ногу к корпусу, со вдохом возвращаем в исходное положение, затем аналогично с другой стороны. Работайте в своей амплитуде, отводя ногу назад, контролируйте спину, держите ее прямой." = "Note: \n\nGet on all fours. The abdominal muscles are tense. The back is straight, the neck is in line with the spine. With an exhalation, straining the muscles of the press, bring the leg to the body, with an inspiration we return to the starting position, then similarly from the other side. Work in your amplitude, pulling your leg back, control your back, keep it straight.";
+
+"Примечание: \n \nСпина ровная. Если вам трудно выполнять без опоры, вы можете на что-нибудь облокотиться. Со вдохом поверните корпус, с выдохом, напрягая мышцы пресса вернитесь в исходное положение." = "Note: \n \nStraighten your back. If it's difficult for you, you can lean on something. With an inspiration, turn the body, with an exhalation, straining the muscles of the press, return to the starting position.";
+
+"Примечание: \n \nСпина прямая, лопатки прижаты к полу, живот в тонусе. Таз слегка подкручен. Одна нога находится прямой или согнутой в колене, другая стоит на полу и служит точкой опоры. Толкнитесь пяткой опорной ноги, оторвите таз от пола. Не прогибайтесь в спине и старайтесь лопатки не отрывать от пола, сожмите ягодицы на подъеме, затем вернитесь в исходное положение." = "Note: \n \nStraighten your back, shoulder blades pressed to the floor, abdominal muscles tense. One leg is straight or bent at the knee, the other is on the floor and serves as a fulcrum. Push off with the heel of the supporting leg, lift the pelvis off the floor. Do not bend in the back and try not to lift your shoulder blades off the floor, squeeze your buttocks on the rise, then return to the starting position.";
+
+"Примечание: \n \nВстаньте на четвереньки. Живот в напряжении. Спина прямая, шея на одной линии с позвоночником. С выдохом, держа мышцы пресса, ответите ногу, напрягите ягодичную мышцу. Со вдохом возвращаем в исходное положение, затем аналогично с другой стороны. Работайте в своей амплитуде, отводя ногу назад, контролируйте спину, держите ее прямой." = "Note: \n \nGet on all fours. The abdominal muscles are tense. Straighten your back, neck in line with the spine. With an exhalation, keeping the muscles of the press in tension, make a swing with your foot. With an inspiration, return the leg to the starting position, then similarly on the other side. Work in your amplitude, pulling your leg back, control your back, keep it straight.";
+
+"Примечание: \n \nПоложение обратной планки. Руки прямые, спина прямая, мышцы пресса в напряжении. Угол в колене опорной ноги 90 градусов. С выдохом отведите бедро в строну, на столько на сколько это возможно. Со вдохом вернитесь в исходное положение, затем аналогично с другой стороны." = "Note: \n \nPosition of the reverse bar. The arms are straight, the back is straight, the muscles of the press are tense. The angle at the knee of the supporting leg is 90 degrees. Exhale and pull your hip to the side as far as possible. With an inspiration, return to the starting position, then similarly on the other side.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. На выдохе опустите левую ногу и правду ногу вниз. Затем со вдохом возвращайте в исходное положение и аналогично с другой стороны. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола." = "Note: \n \nThe lower back is tightly pressed to the floor. The pelvis is slightly twisted. As you exhale, lower your left leg and the right leg down. Then, with an inspiration, return to the starting position and similarly on the other side. \n \nControl the lower back, during exercises, it should not come off the floor.";
+
+"Примечание: \n \nИсходное положение ноги чуть шире ширины плеч. Носки чуть врозь. Колени сонаправлены с носками. Мышцы пресса в тонусе. На вдохе опускаемся вниз примерно по параллели с полом. Акцент на пятках, со вдохом возвращаемся в исходное положение." = "Note: \n \nLeg is slightly wider than shoulder width. The knees are aligned with the socks. The muscles of the press are in tension. When inhaling, we descend down approximately parallel to the floor. The emphasis is on the heels, with inspiration we return to the starting position.";
+
+"Примечание: \n \nПоясница плотно прижата к полу. Таз слегка подкручен. Со вдохом опустите ноги и руки вниз. Затем на выдохе возвращайте в исходное положение, сокращая мышцы пресса. \n \nКонтролируйте поясницу, во время упражнений, она не должна отрываться от пола. Первое время можно выполнять без отягощения." = "Note: \n\nThe lower back is tightly pressed to the floor. As you inhale, lower your legs and arms down. Then, on exhalation, return to the starting position, contracting the abdominal muscles. \n \nControl the lower back, during exercises, it should not come off the floor. The first time can be performed without burdening.";
+
+"Примечание: \n \nСпина прямая, живот в напряжении. Руки в локтях чуть согнуты, на выдохе поднимите руки через стороны, шея расслаблена. Со вдохом вернитесь в исходное положение." = "Note: \n \nStraighten your back, the abdominal muscles are tense. The arms are slightly bent at the elbows, on exhalation raise your arms through the sides, the neck is relaxed. Inhale and return to the starting position.";
+
+"8-10 вдохов" = "8-10 breaths";
+
+"6-8 повторений" = "6-8 repetitions";
+
+"8-10 повторений" = "8-10 repetitions";
+
+"10-12 повторений" = "10-12 repetitions";
+
+"15-20 повторений" = "15-20 repetitions";
+
+"5-8 повторений" = "5-8 repetitions";
+
+"8-10 наклонов" = "8-10 repetitions";
+
+"10-15 секунд" = "10-15 seconds";
+
+
+
+
+
+
+"Гарудасана" = "Garudasana";
+
+"ОРЁЛ" = "EAGLE POSE";
+
+"Техника выполнения: \n \n-Поместите левый локоть на переднюю поверхность правого плеча у локтевого сгиба. Скрестите кисти рук и соедините ладони вместе. Старайтесь подпирать нижним локтем верхний. Удерживайте локти на уровне грудной клетки. \n-Согните ноги в коленях и скрестите таким образом, чтобы задняя поверхность правого бедра находилась на передней поверхности левого. Заведите правую стопу за левую голень так, чтобы обе голени соприкоснулись, а носок правой ноги зацепился за левую ногу чуть выше лодыжки. Направьте носок правой ноги на себя. \n \nМожно переплетать разноименные руки и ноги. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-Garudasana (Eagle Pose) requires careful focus. You must bend your knees, cross your left thigh over your right, hook the top of your foot behind your right calf, spread the scapula and snug your right elbow into the crook of your left, bring your palms to touch, lift your elbows, and stretch your fingers towards the ceiling. \n \n-You may feel a sense of constriction or tightening while in this pose. Lean into that discomfort to find ease and stability. Release the tension to experience the freedom of riding the wind for yourself.";
+
+"от 3 до 10 циклов дыхания" = "Hold for 3-10 breaths";
+
+
+
+"Уттанасана" = "Uttanasana";
+
+"ПОЗА ИНТЕНСИВНОГО ВЫТЯЖЕНИЯ" = "";
+
+"Техника выполнения: \n \n-Встаньте в тадасану, поставьте стопы на ширину таза (рекомендуется для начинающих), либо вместе. Оттолкнитесь от стоп, включите в работу мышцы ног: подтяните коленные чашечки за счет активизации четырех главых мышц бедер. \n-Медленно наклонитесь вперед, к коленям, растягивая позвоночник длинной дугой. Тянитесь вниз не головой, а ребрами -  стремитесь коснуться колен грудью, но при этом не напрягайте шею. Помните, что наклон начинается с осевого вращения таза вперед. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-Keeping the legs straight is the preferred approach, as it strengthens more parts of the body. And if having the legs straight causes the back to round, it may be better to bend the knees to come up. The extension of the spine is more important than the legs being straight.";
+
+
+
+
+"Бакасана" = "Bakasana";
+
+"ПОЗА ЖУРАВЛЯ" = "CranCrane POSE";
+
+"Техника выполнения: \n \n-В положении уттанасаны поставьте ладони пальцами вперед. Приподнимитесь на полупальцах, согните ноги в коленях, упритесь коленями в плечи. \n-Оттолкнитесь от рук, разведите лопатки в стороны, плечи отведите назад. \n-Стягивайте бедра по направлению друг к другу. Сгибайте ноги в коленях и  подтягивайте пятки к ягодицам. \n-Толкайтесь нагружая ладони равномерно, фаланги пальцев можно согнуть. \n-Округлите спину, вытолкнув зону между лопатками вверх. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-Tilt the torso forward so that the shoulders fit between the knees. Place the hands on the floor shoulder distance apart and 6-8 inches ahead of the feet. \n \n-Come high on the toes and shift forward until the elbows stack over the wrists. Continuing to reach the chest forward, lift the heels towards the buttocks. \n \n-Knees can either grip the outer shoulders or balance on the triceps. Press the arms as straight as possible while bringing the feet and buttocks towards each other.";
+
+
+
+"Планка" = "Plank Pose";
+
+"В УПОРЕ " = "";
+
+"Техника выполнения: \n \n-Прижмите ладони к полу, разведите пальцы как можно шире. Подкручивайте локти внутрь, одновременно подтягивая лопатками плечи вверх. Если вращение локтевых суставов внутрь, доставляет дискомфорт, оставляйте микросгиб в локте. \n-Оттяните пятки как можно дальше назад, вытянув все тело в струну. Подтяните коленные чашечки. \n-Мышцы пресса сокращенны. Думайте о вытяжении задней поверхности тела, таз удерживайте на одной линии. \n \nОставайтесь в положении планки от 15 секунд до 1 минуты. Не перегружайтесь и не доводите тело до тремора." = "-Press your outer arms inward and firm the bases of your index fingers into the floor. Firm your shoulder blades against your back, then spread them away from the spine. Also spread your collarbones away from the sternum. \n \n-Press your front thighs up toward the ceiling, but resist your tailbone toward the floor as you lengthen it toward the heels. Lift the base of the skull away from the back of the neck and look straight down at the floor, keeping the throat and eyes soft.";
+
+"от 15 секунд до 1 минуты" = "from 15 seconds to 1 minute";
+
+
+
+"Чатуранга" = "Chaturanga";
+
+"ПОЗА ПОСОХА" = "STAFF POSE";
+
+"Техника выполнения: \n \nИсходное положение — планка. Со вдохом оттолкнитесь от стоп и сместите корпус вперед, выводя линию плеч за линию запястий. С выдохом согните руки в локтях до прямого угла и опустите корпус вниз до параллели с полом. \nПодключите бандхи и выполните следующие действия: \n-Прижмите локти к корпусу. \n-Напрягите мышцы бёдер, выпрямите колени. \n-Представьте, что вы хотите прижать ноги друг к другу. \n-Толкайтесь ладонями(фактически руки не двигаются), это мобилизует мышцы. Для стабилизации, потяните пятки назад (фактически ноги не двигаются). \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, опустите колени на пол, отожмитесь от ладоней, выпрямите руки в локтях, вернитесь в положение планки или выйдете в положение собаки мордой вверх. Либо опустите грудную клетку, живот и бедра на пол." = "-To create proper alignment in Chaturanga, you need to activate muscles from the front to the back of your body, and tighten your elbows close to your ribs, rather than letting them splay outward. This allows your chest to stay up in a hover. \n \n-From Plank Pose, align your shoulders slightly ahead of your wrists and come onto the balls of your feet. On an inhalation, draw your shoulders and the tops of your thighs up and away from the floor. Pull your lower body up and in, and release your tailbone toward the floor. \n \n-On an exhalation, bend your elbows and slowly lower your body until your elbows are at around 90 degrees. Keep your elbows directly over your wrists and drawn in against your sides. \n \n-To come out of the pose, exhale and lower down to your belly or push back up to Plank Pose.";
+
+
+
+
+"Урдхва мукха шванасана" = "Urdhva Mukha Svanasana";
+
+"СОБАКА МОРДОЙ ВВЕРХ" = "UPWARD-FACING DOG";
+
+"Чаще всего выполняется из положения лежа на животе или из планки, чатуранги или адхо мукха шванасаны. \n \nТехника выполнения: \n \n-Ладони на уровни талии, отжимаясь от пола, поднимите голову, корпус и таз. В конечной форме плечи распологаются над запястьями. \n-Раскройте грудную клетку. Сведите лопатки и опустите их вниз. \n-Выпрямите руки в локтях — направьте локти друг к другу. \n-Опора на пальцы ног. Распределяется равномерно вес тела между ладонями и стопами. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, опустите колени, согните руки в локтях, опуститесь вниз на живот, либо поднимите таз вверх и примите положение адхо мукха шванасаны." = "-Move forward into Plank Pose. Instead, maintain a line from the crown of your head to your sitting bones, as though a thread is pulling you forward while your heels resist back. Keep your legs firm and straight. \n \n-Reaching farther forward through the crown of your head, begin to draw your chest forward through your arms. Roll your shoulders open and pull them down your back as you move the sides of your waist forward. \n \n-Stretch back through your toes as though pushing the floor away from you. Put your knees down if you need to take stress off your back. Roll over your toes while your hips are low. Press your outer ankles in to avoid sickling your feet. \n \n-Keep your head level and your gaze straight ahead, until you know how to look up without collapsing your shoulders and lower back.";
+
+
+
+
+"Бхуджангасана" = "Bhujangasana";
+
+"ПОЗА КОБРЫ" = "COBRA POSE";
+
+"Техника выполнения: \n \n-Руки на уровне груди, стопы вместе или на ширине плеч. \n-На вдохе оттолкнитесь от пола, поднимите грудную клетку вверх и выполните прогиб в позвоночнике от основания до затылка. В конечном положении грудная клетка и живот отрываются от пола, а лобковая кость остается на полу. \n-Прижимайте локти к корпусу, плечевые суставы отведены назад и опущены. \n-Прижимайте таз к полу, удерживайте мулабандху, сокращая мышцы тазового дна, и уддияна бандху. \n-Удерживайте легкую джаландхара банду, линия шейного изгиба продолжает линию позвоночника. \n-С каждым вдохом растягивайте позвоночник, расширяйте грудную клетку. Когда вы почувствуете, что прогиб уже достаточно глубокий, попробуйте развести лопатки. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, на выдохе согните руки в локтях и опуститесь на живот." = "-Move into this pose slowly in order to avoid straining your back. \n \n-Begin on your belly with your feet hip-distance apart and your hands beside your ribs. Extend your big toes straight back and press down with all ten toenails to activate your quadriceps. Rotate your inner thighs toward the ceiling to broaden the lower back. Pressing down lightly with your hands, start to lift your head and chest, rolling your shoulders back and down. Keep the back of your neck long and focus on lifting your sternum instead of lifting your chin. Straighten your arms while keeping your shoulders remaining away from your ears. Keep at least a slight bend in your elbows. \n \n-To exit the pose, release back to your mat.";
+
+
+
+
+"Дханурасана" = "Dhanurasana";
+
+"ПОЗА ЛУКА" = "BOW POSE";
+
+"Техника выполнения: \n \n-Согните ноги в коленях и захватите щиколотки руками: изнутри или снаружи. На вдохе поднимите грудную клетку вверх и одновременно выполните разгибание в тазобедренных суставах, чтобы поднять бедра от пола. \n-Для углубления прогиба, пробуйте выпрямить ноги в коленных, тазобедренных суставах, избегая разведения колен в стороны. \n-Сведите лопатки. Опускайте плечи вниз, чтобы не закрепощать шею. Одновременно поднимайте и отводите руки назад. \n-Сохраняйте баланс на животе. \n \nОставайтесь в асане комфортное время." = "-As you inhale, gently squeeze your shoulder blades back toward each other. Then, progress by lifting your chest, your head, and the top of your ribs off the floor. Exhale, and on your next inhalation, lift your legs off the floor. Press your feet together and keep your legs active and engaged. \n \n-While maintaining the lift in your chest and legs, bend your knees and bring your heels toward your head until your toes are vertical above your ankles. Take 3-10 breaths. Slowly release to the floor, and then repeat at least one more time before proceeding to next step. \n \n-Hold the grip on your ankles. Increase the energy in your legs by raising them slightly higher, while simultaneously pulling them toward the wall behind you. If your legs do not pull back, your upper body cannot open. However, if you do lift your legs higher, you’ll notice the entire front of your chest and shoulder area opening. Relax your belly muscles here, letting them stretch.";
+
+
+
+
+"Уштрасана" = "Ustrasana";
+
+"ПОЗА ВЕРБЛЮДА" = "CAMEL POSE";
+
+"Техника выполнения: \n \n-Стопы и голени прижмите к полу. Если чувствуете себя нестабильно, поставьте стопы на носки. \n-Выпрямите позвоночник и медленно прогнитесь назад на вдохе. Руки можно удерживать на крестце, по мере углубления прогиба, ставьте их на щиколотки или на опору. \n-Удерживайте бедра перпендикулярно полу. \n-В конечном положении руки удерживайте прямыми, активно отталкивайтесь ладонями, углубляя прогиб в грудном отделе. \n-Удерживайте легкую джаландхара бандху на фоне ретракции: втягивайте подбородок и удлиняйте мышцы по задней поверхности шеи, продолжая линию изгиба позвоночника. \n-Находясь в асане, старайтесь направлять вдох в область между лопаток. На входе в асану активно стягивайте лопатки к центру. \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, поочерёдно верните руки на крестец и поочерёдно поднимите живот, грудную клетку, голову. При необходимости выполните компенсацию в позе ребенка." = "-The main thing to avoid with Ustrasana is flopping into the pose and taking the brunt of the backbend in your neck or lower back. Instead, lift and lengthen your torso before you gently arch into the pose. \n \n-Come to your knees, with your legs hip-width apart. Keep your hips over your knees and squeeze your thighs toward each other. Inhale, reach your tailbone toward your knees, creating space between your lower vertebrae.On another inhalation, lift your sternum and draw your elbows back, toward each other behind you. \n \n-Keep your chest raised, your core engaged, your spine long, your chin tucked and your shoulders back. Press the heels of your hands into the heels of your feet. Keep lifting through your sternum. Now lift your shoulders to allow the trapezius muscles between the shoulder blades to rise up. Gently allow the head and neck to extend backward. Gaze at the tip of your nose.";
+
+
+
+
+"Паригхасана" = "Parighasana";
+
+"ПОЗА ЗАСОВА" = "GATE POSE";
+
+"Техника выполнения: \n \n-Выпрямите правую ногу в колене, упор на пятку. Оба бедра на одной плоскости. \n-На вдохе поднимите левую руку вверх и на выдохе наклонитесь в сторону к вытянутой ноге. -Положите правую руку на голень или носок. \n-Не заваливайте плечи и не зажимайте грудную клетку, не допускайте перекоса таза. \nЧтобы стабилизировать положение и углубить наклон: \n* попытайтесь потянуть колено согнутой ноги к стопе вытянутой ноги (колено при этом неподвижно),в этом взаимодействии положение таза уравновешивается, а нижняя часть тела наполняется энергией; \n* мобилизуйте косые мышцы живота над прямой ногой, чтобы глубже уйти в наклон. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nПоднимитесь за счет активизации мышц пресса, поменяйте опорную ногу и выполните наклон в другую сторону." = "-The pelvis is neutral, neither spilling forward nor spilling back, and stacks directly over the knees. Open the right leg out to the side, externally rotating from deep in the hip socket. Inhale lengthen the spine and take the left arm out to the side, externally rotating so that the palm faces the ceiling. \n \n-Exhale, bend laterally to the right, sliding the right hand down the right leg towards the ankle. Reach the left hand past the left ear and look to the left, directing the gaze under the left upper arm. Use exhales to gently twist the upper torso to the left. \n \n-Move the shoulder blades in and up to mobilize the thoracic, offering the chest to the ceiling. Continue pressing down with right big toe mound and the left knee to emphasize the lift of the thoracic spine and chest.";
+
+
+
+
+"Марджариасана" = "Marjaryasana";
+
+"ПОЗА КОШКИ" = "CAT POSE";
+
+"Техника выполнения: \n \n-Кисти на уровне плеч, пальцы широко расставлены. На протяжении всего упражнения необходимо толкаться руками от пола и стабилизировать плечи в суставах. \n-Голени и стопы прижаты к полу, угол в коленях 90 градусов. \n-Со вдохом поднимите голову и посмотрите вверх, продолжая слегка подтягивать подбородок к шее. Направьте грудную клетку вперед и прогнитесь в пояснице. Седалищные кости при этом смотрят вверх, а лопатки толкают грудную клетку вперед. \n-С выдохом наклоните голову вниз и прижмите подбородок груди, округлите спину, потяните лопатками грудной отдел позвоночника вверх. Таз подверните вниз и направьте к голове. \n-Синхронизируя сгибание и разгибание позвоночника с дыханием. \n \nВыполняйте упражнение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-While in this pose, focus on tucking your tailbone, rounding your spine and releasing your neck. \n \n-Your hands should be shoulder-distance apart and slightly ahead of your shoulders. Press down firmly through your hands. Exhale and round your spine toward the ceiling. Drop the crown of your head and your tailbone. Draw your lower belly in and up. \n \n-Push the floor away with your hands to broaden across your shoulder blades.Keep the hips over your knees and your arms straight to keep the movement in your spine. To release the pose, return to a neutral spine.";
+
+
+
+
+"Адха Мукха Шванасана" = "Adho Mukha Svanasana";
+
+"СОБАКА МОРДОЙ ВНИЗ" = "DOWNWARD-FACING DOG";
+
+"\n \nТехника выполнения: \n \n-Направьте таз по диагонали вверх, выпрямляйте руки и позвоночник в одну линию, выпрямите колени. \n-Вращайте плечи наружу, расширяя  расстояние между лопатками (действие). Вращайте предплечья внутрь(противодействие). \n-Ноги на ширине таза. \n \nДля начинающих - если сильное натяжение по задней поверхности ног, округлите спину и согните ноги в коленях. \n \nДля продолжающих: \n-Чтобы усилить натяжение по задней поверхности ног, упритесь пятками в пол, попробуйте оторвать пальцы ног от пола. \n-Раздвиньте лопатки в стороны, раскрывая грудную клетку. Держите межреберные мышцы в тонусе, не допускайте  провала в грудном отделе. \n-Подбородок приведите к груди, взгляд направлен на пупок. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-Come onto your hands and knees, with your hands a tiny bit in front of your shoulders and your knees directly below your hips. Spread your palms, rooting down through all four corners of your hands, and turn your toes under. \n \n-Exhale and lift your knees from the floor, at first keeping your knees slightly bent and your heels lifted off the floor. Lengthen your tailbone away from the back of your pelvis, lift the sitting bones toward the ceiling, and draw your inner legs from your inner ankles up through your groins. \n \n-On an exhalation, push your top thighs back and stretch your heels toward the floor. Straighten your knees without locking them. Firm your shoulder blades against your back, then widen them and draw them toward your tailbone. Keep your head between your upper arms.";
+
+
+
+
+"Вирабхадрасана 1" = "Virabhadrasana I";
+
+"ПОЗА ДОБЛЕСТНОГО ГЕРОЯ" = "WARRIOR I POSE";
+
+"Техника выполнения: \n \n-Начните из положения ‘Собаки мордой вниз’. Сделайте шаг правой ногой, поставив стопу между рук. \n-Поверните левую стопу на 45 градусов наружу. \n-В конечном положении  колено правой ноги должно достигнуть 90 градусов. Голень правой ноги перпендикулярна полу. \n-Выпрямите заднюю ногу в колене. \n-Направьте грудную клетку вверх, отведите плечи назад. \n-Убедитесь, что нагрузка равномерно распределяется между двумя стопами. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, опустите руки с двух сторон от передней стопы, и сделайте шаг назад в положение планка, из него можно сразу вернуться в собаку мордой вниз. Выполните асану на другую ногу." = "-From Adho Mukha Svanasana (Downward-Facing Dog Pose), step your right foot forward so your toes are in line with your fingertips, and shift your foot slightly to the right. Bend your front knee 90 degrees. Your thigh should be approximately parallel to the floor, your knee stacked over your ankle, and your right outer hip pinned back. \n \n-Pivot your left heel to the floor so your foot forms a 45-degree angle to the side of the mat.  Place the feet slightly wider for more stability. Press your left thighbone back so your left knee is straight. \n \n-As you inhale, raise your torso and reach up with the arms, hands shoulder-distance apart and palms facing each other. You may bring your palms together and look up at your thumbs. Draw your lower belly back and up away from your right thigh. \n \n-Release your hands to the floor, step back to Downward-Facing Dog, and repeat on the other side.";
+
+
+
+
+"Вирабхадрасана  2" = "Virabhadrasana 2";
+
+"ПОЗА ДОБЛЕСТНОГО ГЕРОЯ" = "WARRIOR II POSE";
+
+"Техника выполнения: \n \n-Начните из положения Собаки мордой вниз. Поставьте правую стопу между рук. \n-Поднимите корпус, разверните его влево. Левую стопу разверните на 90 градусов. \n-В крайнем положении правое колено должно оказаться под углом 90 градусов. Правую голень удерживайте перпендикулярно полу. \n-Выпрямите левую ногу. Разворачивайте левое бедро наружу, правое бедро изнутри наружу (действие), а внутренний край правой стопы — к полу (противодействие). \n-Опускайте лопатки вниз, вращайте плечи изнутри наружу, а предплечья — внутрь, и старайтесь выпрямить руки в локтях. \n-Поверните голову направо и посмотрите вдоль правой руки. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны ,опустите руки с двух сторон от передней стопы, и сделайте шаг назад в положение планка, из него можно сразу вернуться в собаку мордой вниз. Выполните асану на другую ногу." = "-In this pose you  distribute your weight evenly between both legs with your front knee bent, your hips squared forward, and your arms extended over your front and back legs. \n \n-If you hold the pose long enough, you’ll start to feel shaky. You’ll want to stand up and give your legs a break. You’ll want to bring your arms down to let your shoulders rest. But like a true warrior, you’ll find the strength hold the pose. \n \n-Arms stretched out to the sides with your feet parallel to each other in. Bend your right knee and stack it over your right ankle. Reach strongly through both arms toward the front and back of the mat and turn and look past your right fingertips. \n \n-To exit, press down through your feet on an exhalation, then use an inhalation to straight your legs and return your feet to parallel facing the left long side of the mat. Repeat on the other side.";
+
+
+
+
+"Вирабхадрасана 3" = "Virabhadrasana 3";
+
+"ПОЗА ДОБЛЕСТНОГО ГЕРОЯ" = "WARRIOR III POSE";
+
+"Техника выполнения: \n \n-Начните выполнять асаны из положения Вирабхадрасана 1. \n-Со вдохом оттолкнитесь от опорной стопы. Наклоните корпус до параллели с полом, заднюю ногу поднимите вверх, одновременно выпрямляя её в колене. В идеале задняя нога тоже должна быть параллельной полу. \n-Носок и колено задней ноги должны смотреть строго вниз. \n-Активизируйте мышцу бедра опорной ноги, коленная чашечка должна быть обращена строго вперед. \n-Вытягивайтесь за руками, стараясь выпрямлять их в локтях. \n \nЕсли вы теряете равновесие, согните опорную ногу в колене, чтобы сместить центр тяжести вниз, и снова поднимитесь. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, опустите заднюю ногу на пол и выпрямитесь, вернувшись в Вирабхадрасану 1. Выполните асану на другую ногу." = "-Virabhadrasana III (Warrior Pose III) requires concentration and stamina to maintain a thoughtful calibration between push and pull—gathering energy in, and extending it out. \n \n-Begin in Virabhadrasana I (Warrior Pose I) with your right foot forward. Firm your right outer hip into your midline as you straighten your left leg. \n \n-Turn your left inner thigh toward the ceiling to roll your left outer hip forward, then pivot onto your back toes so your back leg is in a neutral position. Inhale. Exhale and tilt your torso forward, and reach your arms out ahead. \n \n-Shift your weight into your front foot, and move forward as you lift your left leg until it is parallel to the floor. Continue to turn your left inner thigh to the ceiling so your leg remains neutral and your pelvis is level. Push back with your left heel while extending forward with your arms, the crown of your head, and your sternum. \n \n-Exit, and repeat on the other side.";
+
+
+
+
+"Ардха Чандрасана" = "Ardha Chandrasana";
+
+"ПОЗА ПОЛОВИНЫ ЛУНЫ" = "HALF MOON";
+
+"Техника выполнения: \n \n-В положении уттхита паршаконасана на правую сторону, начните переводить вес вперед, поставьте правую ладонь примерно на 30 см в сторону от правой стопы. \n-Поднимите левую ногу вверх, одновременно разворачивая таз наружу. В конечном положении коленная чашечка и носок поднятой ноги должны смотреть вперед. \n-Разверните грудную клетку вверх. Удерживайте левую руку вертикально над правой. \n-Чтобы стабилизировать положение тела, толкайтесь от опорной стопы вверх и направляйте все ваше внимание в стопу поднятой ноги. \n-Чтобы не уходить в боковое сгибание, используйте опору в виде кирпича под руку. \n-Стремитесь к тому, чтобы все тело находилось в одной плоскости. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, согните правую ногу в колене, опустите левую ногу на пол и вернитесь в положение уттхита паршваконасана. Выполните асану на другую ногу." = "-Bring the left hand to the hip and turn and look to the floor to the right without allowing the left ribs to collapse forward. Bend the right knee, tracking it in line with the second toe. \n \n-Adjust the right hand and the left foot to the right, shift the weight into the right foot and lift into Ardha Chandrasana. Place the right hand beneath the right shoulder and take the left hand to the ceiling, stacking it above the right hand. \n \n-With each inhale find more length along the spine; with each exhale revolve around that length. Spin the right ribs forward and the left ribs back. Gaze can be straight forward or to the top hand. \n \n-To exit, keeping the chest open and square to the long side of the mat, bend the right knee a couple of inches. \n \n-Track the knee in line with the second toe, then deepen the bend and step back with the left foot. \n \n-Repeat on the other side.";
+
+
+
+
+"Уттхита Триконасана" = "Utthita Trikonasana";
+
+"ПОЗА ВЫТЯНУТОГО ТРЕУГОЛЬНИКА" = "EXTENDED TRIANGLE POSE";
+
+"Техника выполнения: \n \n-Встаньте в тадасану, на вдохе расставьте ноги и вытяните руки в стороны. \n-Поверните правую стопу на 90 градусов вправо. \n-Наклонитесь, поместив правую ладонь на голень, на лодыжку или на пол, но не переносите на нее вес тела. \n-Поверните голову в направлении левой руки. Начинающим лучше смотреть перед собой. \n-Колени прямые, поддерживайте тонус мышц бёдер. \n-Стремитесь к тому, чтобы обе ягодицы оказались в одной плоскости и на одном уровне. \n-Раскрывайте грудную клетку, раздвигайте ключицы в стороны, отводите верхнее плечо назад. \n-Стремитесь к тому, чтобы все тело находилось в одной плоскости. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, на вдохе оттолкнитесь от стоп и выпрямитесь за левой рукой, верните стопы в исходное положение. Выполните асану на левую ногу." = "-Turn your left foot in slightly and your right foot out to 90 degrees. Firm your thighs and rotate your right thigh outward. Exhale and extend your torso to the right. When you have reached as far as you are able, hinge at the hip and bring the torso to the right, moving toward your upper body being parallel to the floor. \n \n-Reach your right hand down toward the floor and stretch your left arm toward the ceiling, in line with the tops of your shoulders. Your hands, arms and shoulders will form a straight line, perpendicular to your mat. \n \n-Open your torso to the left, keeping the left and right sides of the torso equally long. Rest your right hand on your shin, ankle, or the floor outside your right foot — whatever is possible without distorting the sides of the torso. Keep your head in a neutral position or turn it to the left. \n \n-Inhale to come up, strongly pressing the back heel into the floor and reaching the top arm toward the ceiling. Recenter, then reverse the feet and repeat for the same length of time on the other side.";
+
+
+
+
+"Уттхита Паршваконасана" = "Utthita Parsvakonasana";
+
+"ПОЗА ВЫТЯНУТОГО БОКОВОГО УГЛА" = "EXTENDED SIDE ANGLE POSE";
+
+"Техника выполнения: \n \n-Встаньте в уттхита триконасану, разверните правую стопу. \n-Опустите правую ладонь на пол или на опору в виде кирпича. Левую руку вытяните вертикально вверх, старайтесь удерживать её на одной линии с правой рукой. \n-Разворачивайте левое плечо изнутри наружу. \n-Распределяйте вес равномерно между двумя ступнями. \n-Активно толкайте колено согнутой ноги к опорной руке, голень должна быть строго перпендикулярно полу. \n-Держите все тело в одной плоскости. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, упритесь пятками в пол, поднимите вытянутую руку вертикально вверх и вернитесь в положение уттхита триконасаны, затем поднимете себя в вертикальное положение. Выполните асану на другую сторону." = "-In this challenging and invigorating posture, you’ll feel a stretch from the outer heel of your foot to your fingertips. Your oblique muscles are worked while the rib cage opens, encouraging you to breathe ever deeper. Turn your left foot out to 90 degrees, and turn your right foot slightly inward. Lift through your spine, keeping the sides of your torso equally long. \n \n-Lean toward your left knee, hinging at the hips to bring your left arm own toward the floor. You may place your left fingertips to the ground or on a block. Move your left armpit close to the outer left knee so your arm and shin are parallel. \n \n-Reach your right arm up over your right ear, palm facing the floor. Turn your chest toward your raised arm and press the right hip toward the floor to create a straight line from your right ankle to you. Turn your head to look past your right thumb. \n \n-Inhale reach up then bring your torso up and straighten the left leg. Switch sides.";
+
+
+
+
+
+"Паривритта триконасана" = "Parivrtta Trikonasana";
+
+"ОБРАЩЁННЫЙ НАЗАД ТРЕУГОЛЬНИК" = "REVOLVED TRIANGLE POSE";
+
+"Техника выполнения: \n \n-Встаньте в тадасану. На вдохе расставьте ноги и вытяните руки в стороны. Разверните правую стопу вправо на 90 градусов, а левую заверните внутрь на 60 градусов. Подтянув левое колено, как следует вытяните левую ногу. \n-На выдохе вращайте корпус и левую ногу вправо до тех пор, пока левая ладонь не опустится на стопу или пол с внешней стороны правой стопы. \n-Вытяните правую руку вверх, выравните её на одну линию с левой. Направьте взгляд на большой палец левой руки. \n-Подтягивайте колени. Не отрывайте пальцы правой ноги от пола. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, упритесь пятками в пол и вернитесь в положение уттхита триконасаны, затем поднимете себя в вертикальное положение. Выполните асану на другую сторону." = "-In Revolved Triangle, it’s extremely important not to over-twist the neck, and instead focus on the muscles in the middle and upper back. When you overwork an area, you run the risk of making it vulnerable to injury. \n \n-Turn your left foot in slightly and your right foot out to 90 degrees. Firm your thighs and turn your right thigh outward, so the center of your right kneecap is in line with the center of the right ankle. \n \n-Exhale and extend your torso to the right, directly over the plane of your right leg, bending from the hip joint, not the waist. Rotate your torso to the left, keeping the left and right sides of your torso equally long. Rest your right hand on your shin or ankle or the floor outside your right foot—whatever is possible without distorting the sides of your torso. Stretch your left arm toward the ceiling, in line with the tops of your shoulders. Keep your head in a neutral position or turn it to the left. \n \n-Inhale to come up, strongly pressing your back heel into the floor and reaching your top arm toward the ceiling. Reverse your e feet and repeat for the same length of time on the other side.";
+
+
+
+
+
+"Паривритта паршваконасана" = "Parvritta Parsvakonasana";
+
+"ПОЗА ПЕРЕВЁРНУТОГО БОКОВОГО УГЛА" = "REVOLVED SIDE ANGLE";
+
+"Техника выполнения: \n \n-Из положения планки, сделайте шаг правой ногой,  разверните грудную клетку в сторону передней ноги. Зафиксируйте положение. \n-Можно опустить колено задней ноги на пол, выполнить скрутку корпусом, затем выпрямить заднюю ногу в колене. \n-В идеале бедро передней ноги должно быть параллельно полу. Стягивайте бедра в направлении друг друга. \n-Следите, чтобы вес тела распределялся равномерно между стопами, таз не смещался в сторону. \n-Ладонь левой руки располагается у внешнего края правой стопы, а правую руку направьте вертикально вверх. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, поставьте ладони на пол с двух сторон от стопы, сделайте шаг назад и вернитесь в положение планки. Повторите на вторую ногу." = "-Step the right foot forward so the toes are in line with the fingertips, adjust the foot slightly to the right. Bend until the front knee creates a right angle with the thigh parallel to the floor and the knee stacked over the ankle. \n \n-Keeping the left leg absolutely straight, pivot the left heel to the floor creating a 45-degree angle with the foot. Line up heel to heel or a little wider. Lean toward your left knee, hinging at the hips to bring your left arm own toward the floor. You may place your left fingertips to the ground or on a block. Move your left armpit close to the outer left knee so your arm and shin are parallel. \n \n-Reach your right arm up over your right ear, palm facing the floor. Turn your chest toward your raised arm and press the right hip toward the floor to create a straight line from your right ankle to you. Turn your head to look past your right thumb. \n \n-Inhale reach up then bring your torso up and straighten the left leg. Switch sides.";
+
+
+
+
+"Прасарита Падоттанасана" = "Prasarita Padottanasana";
+
+"ПОЗА ИНТЕНСИВНОГО ВЫТЯЖЕНИЯ" = "WIDE LEGGED FORWARD BEND";
+
+"Поза интенсивного вытяжения с широко расставленными ногами. \n \nТехника выполнения: \n \n-Встаньте в тадасану, ноги чуть шире плеч. \n-Выпрямите колени,слегка подверните бедра внутрь, активизируйте ягодичные мышцы. \n-Поставьте руки на крестец, сведите лопатки, раскройте плечи, разогните тазобедренный сустав и с выдохом медленно наклонитесь вперед, удерживайте мулабандху и уддияна бандху. Начините наклон с таза - направляйте копчик и седалищные кости вверх, складываясь в тазобедренных суставах. \n-Поставьте ладони на пол под плечи, перехватитесь руками за икроножные мышцы, согните руки в локтях. На вдохе активно удлиняйте позвоночник, на выдохе расслабляйтесь и пассивно опускайтесь чуть ниже. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, поставьте руки на пол, приподнимите корпус наверх, верните кисти рук на крестец, разгибайте тазобедренный сустав, вернитесь в положение стоя." = "-Use an inhale to lengthen the spine, then on an exhale begin to hinge at the hips bringing the torso forward and down. Initiate the forward fold by tilting the pelvis forward, the movement is in the hips and the spine remains straight in the early stages. \n \n-Place the hands on the floor between the feet, hands should be shoulder distance apart and fingertips in line with the toes. Inhale, reach the chest forward and up to lengthen the front body, exhale fold forward and direct the crown of the head towards the floor. \n \n-With the head hanging, adjust the hands back so the elbows stack over the wrists and draw the shoulders away from the floor. Keep the weight evenly distributed through the feet, the tendency is to be too far back in the heels so consider bringing more weight into the front foot so the hips stack over the heels. \n \n-Place the hands on the hips, root down firmly with the feet and use the strength of the legs to return to an upright position.";
+
+
+
+
+"Паршвоттанасана" = "Parsvottanasana";
+
+"ПАРШВА - БОК, ТАН - ВЫТЯГИВАТЬ" = "PYRAMID POSE";
+
+"Техника выполнения: \n \n-Из положения тадасаны сделайте шаг назад левой ногой. На вдохе сложите руки в намасте за спиной, либо поставьте руки на пояс. \n-На выдохом наклонитесь вперед к ноге, устремляясь грудной клеткой к колену. \n-Опускаясь в наклон, зафиксируйте промежуточное положение, в котором спина параллельна полу, затем опуститесь в наклон еще ниже, если это доступно. \n-Стремитесь коснуться колена не головой, а грудью. \n-Продолжайте толкать бедро передней ноги назад, а задней ноги — вперед, выравнивая таз. \n-Сохраняйте ноги прямыми. Не напрягайте шею и не вжимайте её в плечи — старайтесь оставлять пространство в области шеи и держать легкую джаландхара бандху. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nНа вдохе поднимитесь, вернитесь в исходное положение, выполните наклон к другой ноге." = "-As you enter this pose, make sure that you don’t hyperextend your knees or round your back and shoulders. Reach for length from the crown of your head to your tailbone. \n \n-Step your right foot back 2 to 4 feet. Line up heel to heel with your back foot at approximately a 30- to 45-degree angle. On an inhalation, spread your arms out to the sides. On an exhalation, internally rotate your arms, bend your elbows, and bring your palms together behind your back. If this isn’t feasible, release your hands alongside your feet, on blocks, or on your shin. \n \n-Exhale, hinge at your hips, and begin to fold forward and toward your front thigh. Draw the heads of your upper arms back and up away from the floor as you remain in the pose. \n \n-To exit the pose, inhale and use the strength of your legs to come up. Release your arms and step your feet together, returning to Mountain Pose.";
+
+
+
+
+"Убхая Падангуштхасана" = "Ubhaya Padangusthasana";
+
+"ПОЗА С ЗАХВАТОМ ОБОИХ ПАЛЬЦЕВ НОГ" = "CHALLENGE POSE";
+
+"Техника выполнения: \n \n-В положении сидя, согните ноги в коленях, подтяните бедра к груди и обхватите их руками. Балансируйте на седалищных костях, выпрямите ноги в коленях, старайтесь не скруглять спину. \n-В этой асане важна спина. Если при попытке выпрямить ноги, спина округляется и вы скатывайтесь на копчик, согните ноги в коленях. \n-Не проваливайте грудную клетку вниз. Активно тянитесь грудиной вверх, отводите плечи назад, сводите лопатки к центру и вниз, выталкивайте ими грудную клетку вперед, по направлению к ногам. \n-Приближайте бедра к груди. Выпрямляйте ноги в коленях за счёт квадрицепсов. Стягивайте бедра вместе. Носки тяните на себя, чтобы усилить вытяжение в ногах. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-Bend your knees out to the sides, drawing your feet in toward your groin. Now curl your index and second fingers around the insides of your big toes—right fingers to right toe, left fingers to left toe. \n \n-Rock back onto your bum so that your feet lift off the floor. Now rock slightly forward and back until you feel the back edges of your sit bones against the floor. Balance here with your knees bent for a few breaths until you feel rooted. \n \n-When you feel steady, straighten your knees, continuing to ground your base, and allow your torso and legs to grow up out of your base, like a tree reaching toward the sky from its roots. Reach your feet toward the sky. \n \n-If you can’t keep your knees straight without tipping backward or rounding your back, bend your knees and hold onto the backs of your thighs with your shins parallel to the floor. Continue to practice active yield.";
+
+
+
+
+"Джану Ширшассна" = "Janu Sirsasana";
+
+"НАКЛОН ГОЛОВЫ К КОЛЕНУ" = "HEAD-TO-KNEE POSE";
+
+"Техника выполнения: \n \n-В положении дандасаны, максимально согните правую ногу в колене, подтяните стопу к себе, старайтесь расположить бедра под углом 90 градусов. \n-Поднимите руки через стороны наверх, наклонитесь немного вперед за счет вращения таза. Носок левой ноги натяните на себя, колено прямое. \n-Разверните корпус вдоль прямой ноги. Сделайте глубокий вдох, с выдохом опуститесь в наклон к прямой ноге. Опустите руки вниз, если есть возможность, то сцепите руки в замок. \n-На вдохе вытягивайтесь за макушкой, создайте свободное пространство между позвонками, на выдохе - расслабьтесь,опускайтесь ниже. Стремитесь живот уложить на бедро, нижними ребрами дотянитесь до колена. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из положения, приподнимите грудную клетку, с прямой спиной поднимите корпус наверх, возвращайтесь в положение сидя. Повторите на другую ногу." = "-Combining a forward fold, twist, and side body stretch all in one, Janu Sirsasana (Head-to-Knee Pose) can help calm your mind as well as stretch your body. Instead of rounding your back, lengthen your spine and bend from your hip crease. As you fold forward, close your eyes and cultivate a sense of inner peace. \n \n-Bend your right knee and place the sole of your right foot high on your left inner thigh. Inhale and lengthen your spine, exhale and take your right hand to the outside of your left thigh and your left hand behind your left hip. On an exhalation, bend at your hips and lean forward over your left leg. \n \n-Reach for your left foot. If it is available to you, clasp your left wrist with your right hand. Inhale and reach your sternum forward, exhale and revolve your right ribs toward your left knee even more. \n \n-To exit the pose, inhale and lift your chest. Straighten your right leg, returning to Staff Pose. Repeat on the other side.";
+
+
+
+
+"Маричиасана" = "Marichyasana";
+
+"ЛУЧ СВЕТА" = "RAY OF LIGHT";
+
+"Техника выполнения: \n \n-В положении дандасаны, согните правую  ногу в колене, подтяните ее к груди как можно ближе, голень - перпендикулярно полу. \n-Вытянитесь вверх, наклонитесь, немного повернув корпус к прямой ноге, обхватите согнутую ногу руками, чтобы правое  колено коснулось правой подмышки сзади. \n-Сохраните захват, на вдохе вытяните позвоночник. Следите, чтобы оба плеча были параллельны полу, прямая нога — плотно прижата, колено прямое. \n-По мере углубления асаны, перехватывайте замок из рук: сначала захват пальцами, затем - обхват запястий. Можно последовательно менять точку опоры: сначала стремитесь положить лоб на колено прямой ноги, затем нос, подбородок. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, поднимите корпус вверх с округлой спиной, отпустите захват, выпрямитесь. Примите положение дандасаны на несколько дыханий. Затем выполните асану на другую сторону." = "-Bend your right knee to draw your foot back. Your heel should be just in front of your right sitting bone. Let your right knee fall open slightly  and tilt your torso forward, so that it comes to the inside of your right thigh. \n \n-Reach your right hand forward and lengthen your torso. Pin your right knee back in toward your midline so that your inner right knee hugs your right outer shoulder. Internally rotate your right arm, placing your right armpit against your right shin. Keeping this connection, bend your right elbow and take your right arm behind your back. Reach behind your back with your left arm to clasp your left wrist with your right hand. \n \n-Inhale. Reach your sternum forward to lengthen your front body. Exhale. Hinge from your hips and fold forward to lengthen your back body.Aim the crown of your head toward your toes, and release your shoulders away from your ears. \n \n-Lift your torso and unwind your arms on an inhalation. Return to Staff Pose, then repeat on the other side.";
+
+
+
+
+"Пасчимоттанасана" = "Paschimottanasana";
+
+"ПОЗА ВЫТЯЖЕНИЯ ЗАПАДНОЙ СТОРОНЫ" = "SEATED FORWARD BEND";
+
+"Техника выполнения: \n \n-Примите положение дандасаны: сидя на полу, вытяните ноги перед собой и натяните носки на себя. \n-На вдохе поднимите обе руки вверх и вытянитесь всем телом за ними. С выдохом наклонитесь вперед, к ногам. Начните наклон с вращения таза, опустите руки на стопы или на голень. \n-На вдохом вытягивайтесь, удлиняя позвоночник, на выдохе - расслабляйтесь и пассивно опускайтесь ниже. \n-Будучи в складке, сохраняйте мышечный тонус ног - не позволяйте им разваливаться в стороны, тяните носки на себя, подкручивайте бедра внутрь. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, медленно поднимитесь с округленной спиной в положение дандасаны. Голова поднимается в последнюю очередь, либо приподнимите грудную клетку наверх и с прямой спиной вернитесь в исходное положение." = "-Straighten your legs and place your hands next to the flesh of your outer hips. Bring your legs together with the insides of your feet touching. Flex your feet by drawing your toes toward you, and simultaneously press out through the balls of your feet. Let your shoulders move back, and begin to breathe into your chest and your entire rib cage. \n \n-Keeping the activation of your legs and low belly, reach forward. As you exhale, begin to move deeper into a forward fold. Try not to pull with your arms. Instead, keep your shoulders relaxed. Bend your elbows and bow your head, gazing toward your legs. Relax your neck and let your breath move freely. Keep gently drawing your low belly toward your spine, lifting your waist off your thighs. \n \n-To exit the posture, inhale and lengthen your torso upward while straightening your arms. Complete a full exhalation before releasing your feet.";
+
+
+
+
+"Трианг Мукхаикапада" = "Triang Mukhaikapada";
+
+"ПАШЧИМОТТАНАСАНА" = "Paschimottanasana";
+
+"Трианга — три части или три конечности, Мукха — лицо, Эка — один, Пада — стопа или нога, Пашчима – спина или задняя часть тела, Уттан — растяжение Техника выполнения: \n \n-Сядьте в Дандасану. Согните правую ногу в колене, отведите стопу назад. Голень и стопа образуют одну линию и полностью касаются пола. \n-Наклонитесь к прямой ноге и захватите руками стопу. Если захват руками не получается, воспользуйтесь ремнем. \n-Попытайтесь свести колени вместе, вы мобилизуете приводящие мышцы бедер. Если усилить сокращение со стороны согнутой ноги, центр тяжести тела сместится в соответствующую сторону, положение туловища выровняется. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, медленно поднимитесь с округленной спиной в положение дандасаны. Голова поднимается в последнюю очередь. Либо приподнимите грудную клетку наверх и с прямой спиной вернитесь в исходное положение." = "-Bend your left leg at the knee, roll your calf out, and place your leg in Hero Pose. Grip your right kneecap, press your right thigh down, and keep your legs together. If your pelvis tilts to the right, place a blanket under your right buttock. \n \n-Inhale, raise your arms, and lean forward. Catch your right foot and lift your chest to create a concave back. If you are unable to reach your foot, use a strap. Exhale and bend forward, keeping your weight on the bent knee. Bring your trunk close to your legs. \n \n-Inhale to sit up, switch sides.";
+
+
+
+
+"Пурвоттасана" = "Purvottanasana";
+
+"ПОЗА ВЫТЯЖЕНИЯ ВОСТОЧНОЙ ЧАСТИ" = "REVERSE PLANK";
+
+"Техника выполнения: \n \n-В положении дандасаны расположите ладони за линией таза. Если постановка пальцев рук в сторону таза вызывает неприятные ощущения в локтях, направьте пальцы рук назад. \n-Упор на ладони и подошву стопы, поднимите корпус вверх на вдохе. Следите, чтобы плечи располагались над запястьями, руки - перпендикулярно полу. \n-Выполните ретракцию шейного отдела позвоночника, слегка втягивая подбородок внутрь, удлиняя заднюю поверхность шеи. На вдохе выталкивайте грудную клетку вверх. \n-Прижимайте подошвы стоп к полу, вращайте бедра внутрь, ноги вместе, колени прямые. Сокращайте ягодичные мышцы, но не блокируйте крестец избыточным сокращением ягодиц. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, согните руки в локтях и с выдохом опуститесь на пол." = "-Practiced correctly, you’ll stretch tight muscles in your shoulders, chest, and the front of your ankles, while strengthening your arms, wrists, and legs. \n \n-Lean back slightly, and slide your hands back about 8 inches. As you inhale, move your shoulder blades in, and lift and open your chest. As you exhale, point your feet, reach toward the floor with your big toe mounds, and lift your hips.Press toward the floor with your big toe mounds. Rotate your inner thighs in and down while  you directing your buttocks toward the backs of your knees. \n \n-Press down with your hands to lift your thoracic spine toward your sternum and your sternum toward the ceiling. Inflate your chest. Allow your head to drop back, making sure the curve of your neck is a continuation of the curve of your upper back. \n \n-Press into your feet and hands as you exhale, life your hips and chest as you inhale. Release back to the floor.";
+
+
+
+
+"Баддха конасана" = "Baddha Konasana";
+
+"ПОЛОЖЕНИЕ БАБОЧКИ" = "BOUND ANGLE POSE";
+
+"Техника выполнения: \n \n-В положении сидя на полу, согните ноги в коленях, притяните пятки к себе, стоп вместе. \n-Старайтесь держать спину прямой, не допускать ретроверсии таза и сгибания позвоночника. Если это не представляется возможным, подкладывайте опору под седалищные кости. \n-Будучи в асане, раскрывайте стопы в стороны подошвами вверх, сохраняйте контакт по внешнему краю. Чтобы углубить положение, можно слегка надавить предплечьями на бедра, но не на колени. \n-Если вы добились хорошего раскрытия тазобедренных суставов и вытяжения в спине, можно углубить асану и выполнить наклон вперед, к ногам. Наклон при этом должен начинаться от бедер: сначала выполняем антеверсию таза, затем сгибание позвоночника. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-Bound Angle Pose activates the muscles in your back as you lengthen and stretch through your spine. A strong and stable core is also key to this posture. \n \n-Sit directly on top of your sitting bones, rather than behind them. Draw your feet together, allowing your knees to fall open to the sides. Press your shoulder blades against your upper back to lift through your sternum or chest. Clasp your ankles to help you find lift along your torso. Open the soles of your feet as if you were opening the pages of a book. \n \n-To exit the pose, gently release your feet and come back to Staff Pose.";
+
+
+
+
+"Халасана" = "Halasana";
+
+"ПЛУГ" = "PLOW POSE";
+
+"Техника выполнения: \n \n-Лёжа на полу, поднимите согнутые ноги вверх, выпрямите их в коленях, прижимная поясницу к полу. Руки лежат вдоль вашего корпуса, плотно прижатые к полу. \n-На вдохе чуть отведите ноги от себя, делая лёгкий замах и на выдохе уведите ноги за голову. Постарайтесь коснуться носками пола. \n-Продолжайте толкаться руками. Основной вес на плечах, руки и ноги тянутся в противоположные стороны, копчик тянем вверх, удлиняя позвоночник. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, сделайте вдох, на выходе медленно начинаем раскручивать позвонок за позвонком, возвращаясь в положение лёжа." = "-Carefully done, Plow Pose can release tension in the neck and throat. But prep and practice it with care to avoid neck strain or injury. \n \n-Bring your knees toward your chest, then straighten your legs toward the ceiling. Using the strength of your abs — and supporting yourself with both hands at your low or mid back — lift your hips off the floor and roll up until you are supported by your shoulders. Stack your hips above your shoulders. \n \n-Slowly lower your legs backward over your head until your toes reach the ground behind you. Rest your toes on the ground, feet flexed. Release your hands and place your arms no the floor, palms down or with hands clasped. Press down with your outer upper arms and shoulders to create more lift along the spine. \n \n-To exit, unclasp your hands, press your arms and hands into the mat, and slowly roll down one vertebrae at a time. Take a few moments to allow the back to settle back into its normal curves.";
+
+
+
+
+"Випарита Карани" = "Viparita Karani";
+
+"ПОЗА СОГНУТОЙ СВЕЧИ" = "BENT CANDLE POSE";
+
+"Техника выполнения: \n \n-Лягте на пол, согните ноги в коленях. Прижмите плотно поясницу к полу, сделайте вдох, поднимите таз в положение полумоста. \n-Раскройте грудную клетку за счёт сведения лопаток. Согните руки в локтевом суставе, поставьте основание ладоней на крестцовую часть, пальцы смотрят в разные стороны. Сведите локти к центру, продолжая сильнее сводить лопатки. \n-Оторвите одну стопу от пола и потяните её в потолок, затем вторую. Таз лежит на руках. Все время раскрываем грудную клетку, при этом держим поясницу плоской. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, поставьте сначала одну стопу на пол, затем другую, позвонок за позвонком опустите таз вниз, прижмите поясницу к полу." = "-Bent Candle Pose stretches our shoulders and legs while toning our abs. Shoulder stand also calms and energizes while reducing stress and fatigue. \n \n-Bring your legs overhead, rolling your weight into your shoulders. Draw your elbows together and place hands on low to mid back for support. Firm abs and extend legs upward. Make sure the weight remains in the shoulders and the neck is relaxed. \n \n-Body weight stays in the shoulders. Notice if you are putting any weight or pressure onto the back of your neck. Place a blanket or other padding under your shoulders to lift your neck further away from the floor. Draw elbows toward each other and shoulder blades in to create more stability and support for your hips and low back. \n \n-Bring your awareness to your breathing and find calm and stillness as you work in this pose.";
+
+
+
+
+"Упавишта конасана" = "Upavistha Konasana";
+
+"УПАВИШТА - СИДЯ, КОНА - УГОЛ" = "SEATED FORWARD BEND";
+
+"Техника выполнения: \n \n-В положении сидя, разведите ноги как можно шире, так чтобы вы могли выпрямить колени и натянуть носки на себя. Следите, чтобы таз не отклонялся назад - в исходном положении важно добиться нейтрального положения таза. Не уходите в наклон, пока таз не будет в вертикальном положении. \n-Со вдохом направьте грудную клетку вверх. С выдохом наклонитесь вперёд. Стремитесь к полу грудью, а не лбом. В конечном варианте грудь лежит на полу, а голова упирается в пол подбородком. \n-Чтобы углубить асану, вращайте бедра наружу, но следите за тем, чтобы носки стоп и колени смотрели строго вверх. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего." = "-As you move into a pose like Upavistha Konasana (Wide-Angle Seated Forward Bend) and begin to stretch your hamstrings and adductors (inner-thigh muscles), you may notice your thoughts and emotions becoming stimulated. \n \n-Hold on to your big toes with the first two fingers of each hand. Use your inhalation to extend your sternum away from your navel and lengthen your spine. On your exhalation, keep your sitting bones rooted and start to reach your chest forward. \n \n-The tendency (especially if you are flexible) is for your legs and sitting bones to follow your torso and roll toward the floor. Resist this inclination to roll forward. Keep your sitting bones heavy, even if you don’t go as far. ";
+
+
+
+
+"Супта Конасана" = "Supta Konasana";
+
+"КОНА - УГОЛ, СУПТА - ЛЁЖА " = "RECLINING ANGLE POSE";
+
+"Техника выполнения: \n \n-Исходное положение халасана. \n-В супта конасане отстройка будет такой же, но ноги разведены в стороны. Носки стоп стоят на полу, натянуты на себя. На начальном этапе руками можно поддерживать спину. В конечном варианте выполняется захват за стопы. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, сделайте вдох и на выходе медленно начинаем сводить ноги вместе и раскручиваться, возвращаясь в положение лёжа." = "-Do not practice supta Konasana if you have pain or injury in the neck, back, or legs. Avoid this pose in case of slipped disc. Women during menstruation must skip this asana. Supta konasana must be avoided by people suffering from severe sciatica. \n \n-Lie down on your back extending the legs and arms straight on the floor. Inhale swinging the legs over the head until the toes touch the floor as in halasana. Raise your arms to grab the big toes with corresponding hands wrapping the thumb, index, and middle fingers. Exhale holding the toes separate the legs as wide as possible. \n \n-Take a deep breath in to rock up onto the sit bones balancing hovering the legs on the air keeping the grip on the toes intact. Exhale gradually keeping the widely separated legs and chin on the floor. Inhale lifting the chest up and then release the hands off the toes. Bring the legs closer and relax in dandasana.";
+
+
+
+
+"Саламба Сарвангасана" = "Salamba Sarvangasana";
+
+"ПОЗА ДЛЯ ВСЕГО ТЕЛА С ОПОРОЙ" = "SHOULDERSTAND";
+
+"Техника выполнения: \n \n-Исходное положение халасана, поднимите прямые ноги вместе или поочередно наверх. \n-Выпрямите спину, держите колени прямыми. \n-Поворачивайте бедра внутрь. \n-Опираясь на руки, напрягите бицепсы, чтобы усилить давление ладоней на спину. При давлении на спину, старайтесь больше задействовать внешние края ладоней. Это активизирует супинаторы предплечий и стабилизирует положение рук. Создавайте противодействие давлению ладоней - отклоняйте спину на руки. Это позволит стабилизировать позу и разгрузить шею. Основной вес в позе должен приходится на плечи. \n \nОставайтесь в асане от 30 секунд до 3 минут. При первых признаках головокружения, тошноты, потемнения в глазах, а также при болевых ощущениях в шее, необходимо незамедлительно выйти из асаны. \n \nЧтобы выйти из асаны, уведите ноги за голову в халасану, затем медленно начните раскручиваться позвонок за позвонком." = "-Starting position of Halasana (PLOW POSE), lift straight legs together or alternately up. Straighten your back, keep your knees straight. Rotate your hips inward. \n \n-Resting on your hands, tighten your biceps to increase the pressure of your palms on your back. This activates the arch supports and stabilizes the position of the arms. Resist the pressure of the palms - bend your back on your hands. This will stabilize your posture and relax your neck. The main weight in the pose should be on the shoulders. \n \n-Remain in the asana for 30 seconds to 3 minutes. At the first sign of dizziness, nausea, darkening of the eyes, as well as pain in the neck, you must immediately leave the asana. \n \n-To exit the asana, move your legs into halasana, then slowly begin to unwind vertebra by vertebra.";
+
+"от 30 секунд до 3 минут" = "from 30 seconds to 3 minutes";
+
+
+
+
+"Матсиасана" = "Matsyasana";
+
+"ПОЗА РЫБЫ" = "FISH POSE";
+
+"Техника выполнения: \n \n-В положении лежа на спине, соедините стопы и ноги вместе. Положите ладони под ягодицы, согнув руки в локтях и прижав предплечья к полу. \n-На вдохе приподнимите корпус, упираясь предплечьями в пол и направляя грудь вверх. Найдите такой угол локтевого сгиба, который позволит вам поставить макушку на пол. \n-Сводите лопатки внутрь, сдвигайте локти ближе друг к другу, выталкивайте грудь вверх, постепенно продвигайте голову ближе к тазу за счет подъема груди. Дышите полной грудью. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nДля того, чтобы выйти из положения, начните головой скользить по полу, контролируя движения руками и выйдите из положение шавасаны." = "-Inhale, lift your pelvis slightly off the floor, and slide your hands, palms down, below your buttocks. Then rest your buttocks on the backs of your hands (and don’t lift them off your hands as you perform this pose). Be sure to tuck your forearms and elbows up close to the sides of your torso. \n \n-Inhale and press your forearms and elbows firmly against the floor. Next press your scapulas into your back and, with an inhale, lift your upper torso and head away from the floor. Then release your head back onto the floor. Depending on how high you arch your back and lift your chest, either the back of your head or its crown will rest on the floor. There should be a minimal amount of weight on your head to avoid crunching your neck. \n \n-You can keep your knees bent or straighten your legs out onto the floor. If you do the latter, keep your thighs active, and press out through the heels. \n \n-With an exhalation lower your torso and head to the floor. Draw your thighs up into your belly and squeeze.";
+
+
+
+
+"Джатхара Паривартанасана" = "Jathara Parivartanasana";
+
+"СКРУЧИВАНИЕ ЖИВОТА" = "REVOLVED ABDOMEN POSE";
+
+"Техника выполнения: \n \n-Лёжа на спине вытяните руки в стороны, чтобы тело приняло форму креста. С выдохом поднимите обе ноги до положения перпендикулярно полу. Не сгибайте ноги в коленях. \n-Задержитесь в этом положении на несколько вдохов. С очередным выдохом подайте ноги вправо и опустите их так, чтобы пальцы правой ноги едва касались кончиков пальцев правой  руки. \n-Старайтесь не отрывать спину от пола. \n-Опускайте обе ноги одновременно, не сгибая их в коленях. Старайтесь максимально толкать к полу поясницу, разворачивайте ноги от тазобедренных суставов. Как только стопы окажутся у правой  руки, разверните область живота влево. \n \nОставайтесь в позе в течение 20 секунд. С выдохом, медленно поднимите ноги до положения перпендикулярно полу. Если тяжело, ноги можно согнуть в коленях. Задержитесь в этом положении на некоторое время. Выполните асану в другую сторону." = "-Lying on the floor with your arms stretched out at shoulder height as before, exhale and contract the lower back toward the floor as you smoothly lift the straight legs to a 90 degree angle. Keep the sacrum pressed firmly into the floor and the legs actively reaching up. \n \n-Now shift the pelvis slightly to the left so the right hip is close to the center line of the body. Squeeze the legs together and contract the pelvic floor, press the left shoulder into the floor, and gently turn the abdomen to the left as you lower the legs to the right. Reach the feet toward the right hand. \n \n-Lower the feet as far as you can without straining the back, but without touching the floor. Keep the left shoulder pressed firmly against the floor, and don’t allow the torso to roll toward the legs. Keep the knees and ankles together. \n \n-Then inhale and smoothly lift back to center. Shift the pelvis back to center. Reach up through the legs, press the pelvis down, and take a breath or two before repeating the posture to the left.";
+
+"20 секунд" = "20 seconds";
+
+
+
+
+"Шавасана" = "Savasana";
+
+"ТРУП" = "CORPSE POSE";
+
+"Техника выполнения: \n \n-Лёжа на спине разведите ноги на ширину плеч. Свободно раскиньте носки в стороны. Руки лежат ладонями верх. \n-Закройте глаза, расслабьте мышцы лица. Старайтесь не двигать зрачками глаз под опущенными веками. \n-Сканируйте всё тело внутренним взглядом, снизу вверх. Сначала постарайтесь осознать каждый участок тела, затем сознательно расслабить и отпустить напряжение. \n-Отслеживайте вдохи и выдохи. Если ум никак не успокаивается, можно сделать небольшие задержки дыхания как после вдоха, так и после выдоха. \n-Перенесите фокус своего внимания на кончик носа. Почувствуйте температуру воздуха - на вдохе вы ощутите прохладный воздух, на выдохе - более тёплый. \n-В идеале - испытать состояние на грани сна и бодрствования при сохранении осознанности. \n \nЧтобы выйти из шавасаны, сделайте несколько глубоких вдохов и выдохов. Слегка пошевелите пальцами ног и рук. Повернитесь на бок и задержитесь в этом положении на несколько секунд." = "-Although it looks easy, Savasana (Corpse Pose) has been called the most difficult of the asanas. The reason is that the art of relaxation is harder than it looks. It doesn’t happen on demand: You can’t just say, “OK, I’m going to relax, right now!”. \n \n-That’s why Savasana is such a gift. The pose sets up the conditions that allow you to gradually enter a truly relaxed state, one that is deeply refreshing in itself and that also can serve as a starting point for meditation. \n \n-The essence of Corpse Pose is to relax with attention. In other words, to remain conscious and alert while still being at ease. Remaining aware while relaxing can help you begin to notice and release long-held tensions in your body and mind.";
+
+"До состояния на грани сна" = "To a state on the verge of sleep";
+
+
+
+
+"Врикшасана" = "Vrksasana";
+
+"ДЕРЕВО" = "TREE POSE";
+
+"Техника выполнения: \n \n-В положении тадасаны, согните левую ногу в колене, упритесь пяткой в основание левого бедра. Отводите бедро согнутой в колене ноги назад, оно должно выйти в одну плоскость с туловищем. \n-Держите все тело в одной плоскости. Выпрямите позвоночник, лопатки сведите к позвоночнику. \nРекомендации для начинающих: \n-Опустите стопу согнутой ноги ниже по внутренней стороне бедра. \n-Cжимайте ладони в намаскарасане - это  дополнительная точка опоры для более интенсивного вытяжения вверх. \n-Если вы теряете баланс, согните опорную ногу в колене, чтобы сместить центр тяжести вниз, и снова выпрямитесь. \n-Если не получается поймать баланс, начните осваивать асану, опираясь рукой в стену. \n \nУдерживайте положение: 3-5 цикла дыхания для начинающего; 5-10 циклов для продолжающего. \n \nЧтобы выйти из асаны, сделайте глубокий вдох и на выдохе опустите руки вниз, верните колено в центр и затем опустите стору на пол. Повторите на другую ногу." = "-By strengthening your legs, glutes, core, and back, Tree Pose can help improve your posture and alignment, which is especially helpful if you sit a lot throughout the day. \n \n-Inhale deeply, lifting your chest, and exhale as you draw your shoulder blades down your back. Look straight ahead at a steady gazing spot. Place your hands on your hips and raise your right foot high onto your left thigh or shin. Avoid making contact with the knee. Press your right foot and left leg into each other. \n \n-Check that your pelvis is level and squared to the front. When you feel steady, place your hands into anjali mudra at the heart or stretch your arms overhead like branches reaching into the sun. \n \n-Then step back into Mountain Pose and repeat on the other side.";
+
+
+
+
+"В данном случае мы приводим примеры базовых асан, которые подойдут как для начинающих, так и для продолжающих. Составляя их в подходящей вам последовательности  вы сможете подобрать небольшие разминки или полноценные комплексы йоги.
+
+Хатха-йога - значение:
+
+Если обращаться к прямому значению, то слово «хатха» имеет два корня: «ха», что означает ум, ментальная энергия и «тха» - прана, жизненная энергия. Таким образом Хатха – это объединение ментальных сил и жизненной энергии. При этом традиционно слово переводится, как «средство для достижения силы посредством йоги».
+
+Плюсы йоги:
+
+-Йогу называют уникальной системой оздоровления организма. Она позволяет найти внутреннюю гармонию и улучшить работу всех органов. Философия йоги помогает избавиться от вредных привычек и приобщиться к здоровому образу жизни;
+-Гармония с окружающим миром. Избавление от стрессов и негативных переживаний. Йога позволяет окунуться в свой внутренний мир и лучше себя узнать. Упражнения направлены на раскрытие;
+-Избавление от болей в спине и суставах. В йоге есть целый комплекс упражнений, оказывающий расслабляющее и тонизирующее действие на наш организм;
+-Улучшение осанки. Занятие йогой оказывает укрепляющее действие на мышечный корсет. Улучшается осанка, походка становится более уверенной;
+-В йоге существуют специальные упражнения, направленные на улучшение работы ЖКТ.
+-Выполнение упражнений активизирует циркуляцию лимфы, восстанавливает внутренний баланс органов и улучшает сопротивляемость организма инфекциям и бактериям;
+-Упражнения способствуют улучшению кровотока и обогащают мозг кислородом;
+-Возраст не имеет значения. Заниматься йогой можно в любом возрасте, независимо от уровня физической подготовки;
+-Время и место не имеют значение. Занятия йогой не требуют определенного оборудования.
+
+Противопоказания:
+
+Возможность появления травм и обострения старых болезней – неправильная практика, грозит не только обычными травмами (растяжения, вывихи и т.п), но и развитием хронических болезней внутренних органов и опорно-двигательного аппарата. Поэтому практику нужно выполнять корректно.
+
+Существуют ряд противопоказаний к каждой асане, а также противопоказания к практики в целом, а именно:
+-заболевания внутренних органов в острой стадии (аппендицит, панкреатит и.т.д.);
+-заболевания крови;
+-нарушения в работе сердечно-сосудистой системы;
+-онкологические заболевания;
+-паховая грыжа;
+-первые шесть месяцев после инфаркта или инсульта;
+-инфекции в головном или спинном мозге;
+-повышенное давление или температура тела;
+-серьезные расстройства психики (шизофрения);
+-ОРВИ, грипп, ангина;
+-проблемы со спиной.
+
+Классической йогой нельзя заниматься беременным женщинам, у которых срок больше трех месяцев и в течение четырех месяцев после родов. Но можно заниматься йогой для беременных.
+
+Йога не фитнес и не спорт, ей невозможно заниматься факультативно, это не только комплекс упражнений. Это, прежде всего, особая философия, которая меняет мировоззрение, ведет к изменению стиля поведения, изменяет привычки, проникает во все сферы жизни." = "In this case, we give examples of basic asanas that are suitable for both beginners and advanced ones.
+
+Hatha yoga - meaning:
+
+If we refer to its direct meaning, then the word 'hatha' has two roots: 'ha', which means mind, mental energy and 'tha' - prana, life energy. Thus, Hatha is the unification of mental forces and life energy. At the same time, the word is traditionally translated as 'a means to achieve strength through yoga.'
+
+Pros of yoga:
+
+-Yoga is called a unique system of healing the body. It allows you to find inner harmony and improve the work of all organs. The philosophy of yoga helps to get rid of bad habits and join a healthy lifestyle;
+-Harmony with the outside world. Getting rid of stress and negative experiences. Yoga allows you to plunge into your inner world and get to know yourself better. Opening exercises;
+-Relief from back and joint pain. In yoga there is a whole range of exercises that have a relaxing and tonic effect on our body;
+-Improving posture. Yoga practice has a strengthening effect on the muscle corset. Posture improves, gait becomes more confident;
+-In yoga, special exercises, improvement of the digestive tract.
+-Exercise activates lymph circulation, restores the internal balance of organs and improves resistance to infections and bacteria;
+-Exercise improves blood flow and oxygenates the brain;
+-Age does not matter. You can do yoga at any age, regardless of the level of physical fitness;
+-Time and place don't matter. Yoga classes do not require specific equipment.
+
+Contraindications:
+
+The possibility of injuries and exacerbation of old diseases is a wrong practice, threatening not only with ordinary injuries (sprains, dislocations, etc.), but also the development of chronic diseases of internal organs and the musculoskeletal system. Therefore, it should be done correctly.
+
+There are a number of contraindications for each asana, as well as contraindications for practice in general, namely:
+- diseases of internal organs in the acute stage (appendicitis, pancreatitis, etc.);
+- blood diseases;
+-disorders in the work of the cardiovascular system;
+-oncological diseases;
+-inguinal hernia;
+-the first six months after a heart attack or stroke;
+- infections in the brain or spinal cord;
+- increased blood pressure or body temperature;
+- serious mental disorders (schizophrenia);
+-ORVI, flu, tonsillitis;
+-back problems.
+
+Classical yoga should not be practiced by pregnant women who have a period of more than three months and within four months after giving birth. But you can do yoga for pregnant women.
+
+Yoga is not fitness and not a sport, it is impossible to do it as an option, it is not only a set of exercises. This is, first of all, a special philosophy that changes the worldview, leads to a change in behavior, changes habits, and penetrates into all spheres of life.";
+
+
+
+"Ваш список асан пуст, добавьте нужные асаны из общего раздела, чтобы начать тренировку" = "Your list of asanas is empty, add the required asanas from the section to start training";
+
+
+"В данном разделе вы можете составить практику для себя, добавив асаны из общего списка" = "In this section, you can create a practice for yourself";
+
+"Чтобы добавить асаны, зайди в общий список и свайпни асану, которая понравилась" = "To add asanas, go to the general list and swipe the asana that you like";
+
+"Чтобы формировать список в нужном порядке, зажми асану и перемещай" = "To form a list in the desired order, hold the asana and move";
+
+"Свайпни асан, чтобы удалить его" = "Swipe asanas to remove it";
+
+"Хатха - йога \n \nВ данном разделе представлены примеры базовых асан" = "Hatha - yoga \n \nIn this section, presented basic asanas";
+
+"Для удобства навигации они разделены на несколько частей" = "For ease of navigation, they are divided into several parts.";
+
+"Составляя асаны в подходящей для Вас последовательности, Вы можете составить разминку или полноценный комплекс" = "Composing the asanas in a suitable way for you to follow, you can make a warm-up or a full-fledged complex";
+
+
+
+
+"СТАРТ   " = "START   ";
+
+"ЗАВЕРШИТЬ   " = "TURN OFF   ";
+
+"ПОВТОРИТЬ   " = "REPEAT   ";
+
+"Список тренировок пуст!" = "The workout list is empty!";
+
+"Заполните список" = "Fill in the list";
+
+"ДАЛЕЕ   " = "START   ";
+
+"ПАУЗА   " = "PAUSE   ";
+
+"Далее:" = "Continue:";
+
+"Отдых!" = "Relax!";
+
+"Вы закончили!" = "Workout completed!";
+
+"Последний рывок!" = "Left just a little bit!";
+
+"сек" = "sec";
+
+"мин" = "min";
+
+"Проведите пальцем вправо, чтобы отредактировать ячейку или удалить \n \nДлительное нажатие ячейки для перестановки" = "Swipe right to edit a cell or delete \n \nLong-puss a cell to reshuffle";
+
+"Ваш список упражнений пуст, нажмите на + в правом углу чтобы добавить упражнение" = "Your list of exercises is empty, click on the + in the right corner to add an exercise";
+
+"Добавить упражнение" = "Add Exercise";
+
+"Название упражнения" = "Exercise name";
+
+"Продолжительность (сек)" = "Duration (sec)";
+
+"Добавить" = "Add";
+
+"Редактировать упражнение" = "Edit Exercise";
+
+"Обновить" = "Update";
+
+"Удалить" = "Delete";
+
+"Продолжительность отдыха" = "Duration of rest";
+
+"В данном разделе Вы можете составить свою тренировку по таймеру, только заполните список" = "In this section you can create your own workout on a timer, just fill in the list.";
+
+"Выберите время отдыха между упражнениями" = "Choose a rest time between exercises";
+
+"Чтобы формировать список в нужном порядке, зажми упражнение и перемещай" = "To form a list in the desired order, hold down the exercise and move.";
+
+"Свайпни упражнение, чтобы удалить его или изменить" = "Swipe an exercise to delete or change it";
+
+
+
+
+"Часть 1" = "Part 1";
+
+"ШЕЙНО-ВОРОТНИКОВАЯ ЗОНА" = "NECK-COLLAR ZONE";
+
+"Разминка - обязательная мера перед любой тренировкой. Разминка обезопасит Вас от получения травму. \n \n-улучшает пластичность мышц; \n-улучшает кровообращение и насыщает мышцы кислородом; \n-повышает гибкость суставов и сухожилий; \n-значительно снижает риски возникновения травм; \n-увеличивает работоспособность мышечных волокон. \n \nРазминка обязательна для выполнения не зависимо от уровня подготовки." = "Warm-up is a mandatory measure before any workout. Warm-up will protect you from getting injured. \n \n-improves muscle plasticity; \n-improves blood circulation and saturates muscles with oxygen; \n-increases flexibility of joints and tendons; \n-significantly reduces the risk of injury; \n-increases the efficiency of muscle fibers. \n \nWarm-up is mandatory regardless of the level of training.";
+
+
+
+"Часть 2" = "Part 2";
+
+"ГРУДНОЙ ОТДЕЛ И РУКИ" = "CHEST AND ARMS";
+
+
+
+
+"Часть 3" = "Part 3";
+
+"СПИНА И ТАЗОБЕДРЕННЫЕ СУСТАВЫ" = "BACK AND HIP JOINTS";
+
+
+
+
+"Часть 4" = "Part 4";
+
+"КОЛЕННЫЕ СУСТАВЫ, ЗАДНЯЯ ПОВЕРХНОСТЬ БЕДРА И ТБС" = "KNEE JOINTS, BACK OF THE THIGH";
+
+
+
+
+"Часть 5" = "Part 5";
+
+"ГОЛЕНОСТОП, ЗАДНЯЯ ПОВЕРХНОСТЬ БЕДРА И ТБС" = "ANKLE, BACK OF THE THIGH";
+
+
+
+
+"Разворот корпуса" = "Tilt forward with a turn";
+
+"В СКЛАДКЕ НОГИ ВРОЗЬ" = "TRANSVERSE LEGS POSITION";
+
+"Примечание: \n \n-В положение сидя максимально разведите ноги, выпрямите колени и затяните носки ног, спина прямая. \n \n-Во время наклона вперёд поверните корпус лицом к ноге, нижнюю руку вытяните к ноге, правую руку вытяните параллельно полу." = "Note: \n \n-In the sitting position, spread your legs as much as possible, straighten your knees and straighten your foot, your back is straight. \n \n-While leaning forward, turn the body to face the leg, pull the lower arm towards the leg, pull the right arm parallel to the floor.";
+
+"Фиксация по 10 секунд" = "Fixation 10 seconds";
+
+
+
+
+"Наклоны плечом к полу" = "Tilt in transverse sword";
+
+"Примечание: \n \n-В положение сидя максимально разведите ноги, выпрямите колени и затяните носки ног, спина прямая. \n \n-Во время наклона корпус держите параллельно ноги, наклоняясь в максимальное положение в точку перед коленом, сократите стопу стараясь коснуться её рукой." = "Note: \n \n-In the sitting position, spread your legs as much as possible, straighten your knees, your back is straight. \n \n-During the tilt, keep the body parallel to the legs, bending to the maximum position at the point in front of the knee, shorten the foot trying to touch it with your hand.";
+
+"По 10 наклонов" = "10 slopes on each side";
+
+
+
+
+"Скручивание корпуса" = "Body turn with fixation";
+
+"В ВЫПАДЕ" = "WITH SPINAL TWIST";
+
+"Примечание: \n \n-Примите положение выпада с колена, затяните носок задней ноги. \n \n-Выпрямите спину, округлив грудной отдел. \n \n-Корпус разверните в сторону передней ноги, зафиксировав переднюю руку на колене, заднюю на икроножных мышцах." = "Note: \n \n-Take a big step forward with your left foot, so that you are in a staggered stance. \n \n-Bend your left knee and drop into a lunge, keeping your right leg straight behind you with your toes on the ground, so you feel a stretch at the front of your right thigh. \n \n-Place your hand on the foot and twist your upper body to the left as you extend your left arm toward the ceiling. \n \n-Repeat on the other side.";
+
+
+
+
+"Наклоны корпуса" = "Tilt in transverse sword";
+
+"В ПОПЕРЕЧНОМ ШПАГАТЕ" = "TRANSVERSE LEGS POSITION";
+
+"Примечание: \n \n-Примите положение поперечного шпагата, колени прямые, носки затянутые, спина прямая. \n \n-Наклоните корпус плечом к полу в точку перед коленом, верхней рукой пытайтесь достать до стопы." = "Note: \n \n-Take the position of the cross twine (or the maximum possible), knees straight, back straight. \n \n-Tilt the body with your shoulder to the floor at the point in front of the knee, try to reach the foot with your upper hand.";
+
+"Фиксация по 30 секунд" = "Fixation 30 seconds";
+
+
+
+
+"Удлиненная бабочка" = "Sitting butterfly";
+
+"Примечание: \n \n-В спине допустимо небольшое округление, грудным отделом тянитесь к стопе. \n \n-Руки зафиксируйте на стопах, в положении максимума динамически покачивайтесь корпусом." = "Note: \n \n-A slight rounding is allowed in the back, reach for the foot with the thoracic part. \n \n-Fix your hands on your feet, swing your body dynamically in the maximum position.";
+
+"Фиксация 30 секунд" = "Fixation 30 seconds";
+
+
+
+
+"Прогиб и округление спины " = "Cat-Cow";
+
+"В УПОРЕ" = "BRACING HIS HANDS";
+
+"Примечание: \n \n-Упор на колени и прямые руки. \n \n-На вдох максимально прогибайтесь в спине, на выдох максимально округлите спину." = "Note: \n \n-Emphasis on knees and straight arms. \n \n-On the inhale, bend your back as much as possible, on the exhale, round your back as much as possible.";
+
+"10 повторений" = "10 repetitions";
+
+
+
+
+"Вращение корпуса" = "Cat-Cow";
+
+"В УПОРЕ  " = "VARIATION";
+
+"Примечание: \n \n-Упор на колени и прямые руки. \n \n-Плавно вращайте корпусом, в положении максимального прогиба делайте вдох, в положении максимального округления делайте выдох." = "Note: \n \n-Emphasis on knees and straight arms. \n \n-Rotate the body smoothly, inhale in the position of maximum deflection, exhale in the position of maximum rounding.";
+
+"По 8 повторений" = "8 repetitions";
+
+
+
+
+"Прогиб спины" = "Extended Puppy Pose";
+
+"В ПОЗЕ КОШКИ" = "EAZY VARIATION";
+
+"Примечание: \n \n-Упор на колени, руки вытяните вперёд, на выдохе спину уводим в прогиб к полу, таз при этом не уводим в сторону." = "Note: \n \n-Emphasis on knees, stretch your arms forward, exhale, we go into a deflection to the floor, while not moving the pelvis to the side.";
+
+
+
+
+"Прогиб и округление спины" = "Extended Puppy Pose";
+
+"НА ВЫТЯНУТЫХ РУКАХ" = "IN MOVE";
+
+"Примечание: \n \n-Упор на колени, руки подайте вперёд. \n \n-На вдох максимально прогибайтесь в спине, подавая таз немного вперёд, на выдох максимально округлите спину, не заваливая таз назад." = "Note: \n \n-Emphasis on the knees, put your hands forward. \n \n-On the inhale, bend as much as possible in the back, giving the pelvis a little forward, on the exhale, round the back as much as possible, without filling the pelvis back.";
+
+
+
+    
+"Собака мордой вниз" = "Extended Puppy Pose";
+
+"ИЗ УПОРА" = "HARD VARIATIN";
+
+"Примечание: \n \n-Из упора на коленях, отведите таз назад не отрывая рук, выйдите на прямые ноги, на выдохе максимально прогнитесь в спине, грудным отделом тянитесь к полу." = "Note: \n \n-Emphasis on knees, pull your pelvis back without taking your hands off, stand on straight legs, bend as much as possible in your back on exhalation, stretch your chest to the floor.";
+
+
+
+
+"Скорпион" = "Scorpio";
+
+"Примечание: \n \n-Держите колени и спину прямыми, руки также не сгибайте в локтях. \n \n-Поднимайте ногу максимально вверх и в положении максимума согните ногу в колене, стопой тянитесь к голове." = "Note: \n \n-Keep your knees and back straight, and do not bend your arms at the elbows either. \n \n-Lift your leg up as much as possible and in the maximum position bend your leg at the knee, stretch your foot to the head.";
+
+
+
+
+"Поза ребёнка - прогиб " = "Sphinx Pose";
+
+"ЧЕРЕДОВАНИЕ" = "WITH CRUNCH";
+
+"Примечание: \n \n-В положении максимального прогиба упор на прямые руки и носки ног, колени при этом выпрямлены, головой тянитесь назад, увеличивая прогиб. \n \n-В позе ребёнка упор на колени и прямые руки, допускается прогиб в пояснице." = "Note: \n \n-In the position of maximum deflection, the emphasis is on straight arms and toes, while the knees are straightened, stretch your head back, increasing the deflection. \n \n-In the child's pose, the emphasis is on the knees and straight arms, a deflection in the lower back is allowed.";
+
+
+
+
+"Берёзка" = "Bent candle pose";
+
+"НОГИ ЗА ГОЛОВОЙ" = "VARIATION";
+
+"Примечание: \n \n1 - В постановку за голову, округлите спину, закиньте прямые в коленях ноги, уводя стопу как можно дальше от головы, фиксация 10-20 секунд. \n \n2 - Переводим руки к стопе, фиксация 10-20 секунд. \n \n3 - сократите стопу, подведите колени к груди, фиксация 10-20 секунд. \n \n4 - переход на 'берёзку' с прогибом в пояснице, упор на локти, фиксация 10-20 секунд." = "Note: \n \n1 - In the setting behind the head, round your back, throw your legs straight at the knees, taking the foot as far away from the head as possible, fixation 10-20 seconds. \n \n2 - We move our hands to the foot, fixing for 10-20 seconds. \n \n3 - shorten the foot, bring the knees to the chest, fixation for 10-20 seconds. \n \n4 - transition to the 'Bent candle pose' with a deflection in the lower back, emphasis on the elbows, fixation for 10-20 seconds.";
+
+"Фиксация по 10-20 секунд" = "Fixation 10-20 seconds";
+
+
+
+
+"Боковые скручивания" = "Knee Drops";
+
+"ЛЁЖА НА СПИНЕ" = "LYING DOWN";
+
+"Примечание: \n \n-Ноги располагайте под прямым углом, носки затянуты. \n \n-Во время выполнения отведите лицо и таз в противоположную сторону, расставьте руки в стороны для лучшее фиксации." = "Note: \n \n-Place your feet at right angles, socks are tightened. \n \n-During the execution, take your face and pelvis in the opposite direction, spread your arms to the sides for better fixation.";
+
+
+
+
+
+"Наклоны вперёд" = "Standing Hamstring Stretch";
+
+"СТОЯ" = "STANDING";
+
+"Примечание: \n \n-Расставьте ноги на ширине плеч, во время выполнения упражнения старайтесь держать колени и спину прямыми, таз открытым. Распределите вес на переднюю часть стопы. Грудным отделом тянитесь к стопе. \n \n-На выдохе медленно наклоняйтесь вперёд в вертикальную складку до положения максимума, с последующей фиксацией в положении максимума 3-5 секунд." = "Note: \n \n-Place your feet shoulder-width apart, try to keep your knees and back straight and your pelvis open during the exercise. Distribute the weight on the front of the foot. With the thoracic department, reach for the foot. \n \n-On exhalation, slowly bend forward into a vertical fold to the maximum position, followed by fixation in the maximum position for 3-5 seconds.";
+
+"10 наклонов" = "10 slopes";
+
+
+
+
+"Продольный выпад" = "Lunging Hip Flexor Stretch";
+
+"Примечание: \n \n-Таз тянется вниз, бёдра расслабленны, колено задней ноги прямое, центр тяжести корпуса на переднем бедре, руки прямые, зафиксированы в упор на кубики, спина прямая." = "Note: \n \n-The pelvis stretches down, the hips are relaxed, the knee of the hind leg is straight, the center of gravity of the body is on the front thigh, the arms are straight, fixed point-blank on the cubes, the back is straight.";
+
+
+
+
+"Продольный выпад" = "Lunging Hip Flexor Stretch";
+
+"С ПОКАЧИВАНИЯМИ" = "IN MOVE";
+
+"Примечание: \n \n-Таз в динамике тянется вниз, бёдра расслабленны, колено задней ноги прямое, центр тяжести корпуса на переднем бедре, руки прямые, зафиксированы в упор на кубики, спина прямая." = "Note: \n \n-The pelvis stretches down in dynamics, the hips are relaxed, the knee of the hind leg is straight, the center of gravity of the body is on the front thigh, the arms are straight, fixed point-blank on the cubes, the back is straight.";
+
+
+
+
+"Фиксация в выпаде" = "Lunging Hip Flexor Stretch";
+
+"С РУКАМИ ВВЕРХ" = "WITH FIXATION";
+
+"Примечание: \n \n-Таз тянется вниз, бёдра расслабленны, колено задней ноги прямое, корпус располагаем в вертикальной плоскости, руки прямые, спина прямая." = "Note: \n \n-The pelvis stretches down, the hips are relaxed, the knee of the hind leg is straight, the body is positioned in a vertical plane, the arms are straight, the back is straight.";
+
+"Фиксация 10 секунд" = "Fixation 10 seconds";
+
+
+
+
+"Фиксация в выпаде " = "Exercise Lizard";
+
+"ПРЕДПЛЕЧЬЯМИ В УПОРЕ" = "BRACING HIS ELBOWS";
+
+"Примечание: \n \n-Таз тянется вниз, бёдра расслабленны, колено задней ноги стоит на полу, центр тяжести корпуса наклоняем вперёд, оба предплечья на полу, спина прямая. \n \n-Старайтесь избежать ухода стопы в завал на внешнюю сторону" = "Note: \n \n-The pelvis stretches down, the hips are relaxed, the knee of the hind leg is on the floor, the center of gravity of the body is tilted forward, both forearms are on the floor, the back is straight.";
+
+
+
+
+
+"Махи ногами " = "Stretching the legs";
+
+"Примечание: \n \n-Займите положение лежа на спине, носки ног затянутые, колени старайтесь держать прямыми, рабочую ногу доводите до максимума к корпусу." = "Note: \n \n-Take a lying position on your back, your toes are tightened, try to keep your knees straight, bring your working leg to the maximum to the body.";
+
+"По 12 повторений" = "12 repetitions";
+
+
+
+
+"Фиксация ноги в махе" = "Stretching the legs with fixation";
+
+"Примечание: \n \n-Займите положение лежа на спине, носки ног затянутые, колени старайтесь держать прямыми, рабочую ногу доводите до максимума к корпусу, ловите ногу и доводите её до максимума, после чего вы можете дотянуть стопу рабочей ноги на сокращение и притянуть ногу еще ближе к корпусу. \n \n-В завершении отпустите ногу и удерживайте её мышцами в максимуме, у корпуса, без помощи рук, по истечении 10 секунд медленно опускайте ногу." = "Note: \n \n-Take a lying position on your back, your toes are tightened, try to keep your knees straight, bring the working leg to the maximum to the body, catch the leg and bring it to the maximum, after which you can stretch the foot of the working leg to reduce and pull the leg even closer to the body. \n \n-At the end, release the leg and hold it with the muscles to the maximum, at the body, without the help of hands, after 10 seconds slowly lower the leg.";
+
+
+
+
+"Складка ногой вверх" = "Corner";
+
+"Примечание: \n \n-В положении сидя затяните носки ног, старайтесь держать колени прямыми, спина прямая. \n \nЧасть 1 -  Протягивайте ногу в вертикальное положение максимально к корпусу. По возможности сокращайте стопу для проработки на выворотность. \n \nЧасть 2 - Уводите голень в горизонтальную плоскость, протягивайте бедро согнутой ноги, уводя стопу к противоположному плечу." = "Note: \n \n-In the sitting position, pull your toes, try to keep your knees straight, your back straight. \n \nPart 1 - Stretch your leg in a vertical position as close to the body as possible. If possible, shorten the foot to study for eversion. \n \n Part 2 - Take the lower legs to the horizontal plane, stretch the hip of the bent leg, taking the foot to the opposite shoulder.";
+
+"По 1 повторению" = "1 repetitions";
+
+
+
+
+"Уголок" = "Corner";
+
+"В ВЕРТИКАЛЬНУЮ СКЛАДКУ" = "COMPLEX VARIATION";
+
+"Примечание: \n \n-Примите положение сидя, выпрямите спину и затяните носки. \n \n-Во положении фиксации старайтесь держать колени и спину прямыми, подтягивайте ноги максимально к корпусу, держите равновесие. \n \nФиксацией по 10 секунд" = "Note: \n \n-Take a sitting position, straighten your back and tighten your socks. \n \n-In the fixation position, try to keep your knees and back straight, pull your legs as close to the body as possible, keep your balance. \n \nFixation for 10 seconds";
+
+"5 повторений" = "5 repetitions";
+
+
+
+
+
+"Наклоны сидя" = "Stretching Feet";
+
+"В СКЛАДКУ К НОГЕ" = "THE SLOPE OF THE FEET";
+
+"Примечание: \n \n-Одну из ног согните в колене, другую ногу выпрямите и затяните носок, поясница прямая. \n \n-После 10 наклонов зафиксируйте корпус у ноги в максимуме в течении 10 секунд, затяните стопу и находитесь в положении максимума еще 20 секунд." = "Note: \n \n-Bend one of the legs at the knee, straighten the other leg and tighten the sock, the lower back is straight. \n \n-After 10 inclines, fix the body at the foot at the maximum for 10 seconds, tighten the foot and stay in the maximum position for another 20 seconds.";
+
+"По 10 повторений" = "10 repetitions";
+
+
+
+
+"Наклоны сидя" = "Stretching Feet";
+
+"В СКЛАДКУ К НОГАМ" = "FOLD THE FEET";
+
+"Примечание: \n \n-В положении сидя выпрямите спину и колени, затяните носки ног. \n \n-После 10 наклонов зафиксируйте корпус у ног в максимуме в течении 10 секунд, затяните стопы и находитесь в положении максимума еще 20 секунд." = "Note: \n \n-In the sitting position, straighten your back and knees, tighten your toes. \n \n-After 10 bends, fix the body at the feet at the maximum for 10 seconds, tighten the feet and stay in the maximum position for another 20 seconds.";
+
+
+
+
+"Выпад с кубиками" = "Lunging Hip Flexor Stretch";
+
+"С ФИКСАЦИЕЙ " = "EASY VARIATION";
+
+"Примечание: \n \n-Примите положение выпада с колена, затяните носок задней ноги. \n \n-Выпрямите спину, округлив грудной отдел, руки зафиксируйте на кубиках." = "Note: \n \n-Take the lunge position from the knee, tighten the toe of the hind leg. \n \n-Straighten your back, rounding the thoracic region, fix your hands on the cubes.";
+
+
+
+
+
+"Фиксация в выпаде" = "Lunging Hip Flexor Stretch";
+
+"С РУКАМИ ВВЕРХ" = "EASY VARIATION / IN MOVE";
+
+"Примечание: \n \n-Примите положение выпада с колена, затяните носок задней ноги. \n \n-Выпрямите спину, округлив грудной отдел, руки вытяните вверх. \n \n-Раскачивайте таз вниз до максимального положения и вверх, плавно." = "Note: \n \n-Take the lunge position from the knee, tighten the toe of the hind leg. \n \n-Straighten your back, rounding the thoracic region, pull your arms up. \n \n-Swing the pelvis down to the maximum position and up, smoothly.";
+
+
+"Скручивание корпуса " = "Low drop with a turn";
+
+"Примечание: \n \n-Примите положение выпада с колена, затяните носок задней ноги. \n \n-Выпрямите спину, округлив грудной отдел. \n \n-Корпус разверните в сторону передней ноги, зафиксировав переднюю руку на колене, заднюю на икроножных мышцах." = "Note: \n \n-Take a big step forward with your left foot, so that you are in a staggered stance. \n \n-Bend your left knee and drop into a lunge, keeping your right leg straight behind you with your toes on the ground, so you feel a stretch at the front of your right thigh. \n \n-Place your hand on the foot and twist your upper body to the left as you extend your left arm toward the ceiling. \n \n-Repeat on the other side.";
+
+
+
+
+"Фиксация задней ноги" = "Preparation Quadriceps";
+
+"Примечание: \n \n-Примите положение выпада с колена, затяните носок задней ноги. \n \n-Выпрямите спину, округлив грудной отдел. \n \n-Корпус разверните в сторону задней ноги, согнув заднюю ногу, подтяните её к ягодице, держа её за стопу." = "Note: \n \n-Take the lunge position from the knee, tighten the toe of the hind leg. \n \n-Straighten your back, rounding the thoracic region. \n \n-Turn the body towards the back leg, bending the back leg, pull it up to the buttock, holding it by the foot.";
+
+
+
+
+"Протягивание корпуса" = "Tilt to straight foot";
+
+"С ФИКСАЦИЕЙ" = "WITH FIXATION";
+
+"Примечание: \n \n-Из положения выпада выпрямите переднюю ногу ,отодвинув таз назад. \n \n-Корпус наклоните максимально вперёд к ноге, сократив переднюю стопу, расположив руки на опоре. \n \n-После сократите стопу, задействовала ноги." = "Note: \n \n-Straighten your front leg from the lunge position, pushing your pelvis back. \n \n-Tilt the body as far forward as possible to the leg, reducing the forefoot, placing your hands on the support.";
+
+
+
+
+"Продольный шпагат" = "Adaptable twine";
+
+"Примечание: \n \n-Примите положение продольного шпагата / максимально возможное положение, по необходимости опираясь на руки. \n \n-Во время выполнения держите колени прямыми, носки ног затяните, спина прямая, грудная клетка округлена. \n \n-Плавно отклоняйте корпус назад." = "Note: \n \n-Take the position of the longitudinal twine ( the maximum possible position), leaning on your hands if necessary. \n \n-During the execution, keep your knees straight, tighten your toes, your back is straight, your chest is rounded. \n \n-Gently tilt the body back.";
+
+
+
+
+"Наклон с фиксацией" = "Tilt to straight foot";
+
+"В ПРОДОЛЬНОМ ШПАГАТЕ" = "LONGITUDINAL LEGS POSITION";
+
+"Примечание: \n \n-Примите положение продольного шпагата / максимально возможное положение, по необходимости опираясь на руки. \n \n-Выпрямите колени, носки ног затяните, спина прямая. \n \n-Плавно наклоните корпус в максимальное положение в передней ноге." = "Note: \n \n-Take the position of the longitudinal twine  (the maximum possible position), leaning on your hands if necessary. \n \n-Straighten your knees, tighten your toes, straight back. \n \n-Gently tilt the body to the maximum position in the front leg.";
+
+
+
+
+"Нога в кольцо" = "Preparation Quadriceps";
+
+"Примечание: \n \n-Примите положение продольного шпагата. \n \n-Во время выполнения держите колени прямыми, носки ног затяните, спина прямая, грудная клетка округлена. \n \n-Согните заднюю ногу в колене, повернув корпус зафиксируйте ногу, держа её за стопу, после смены руки, разверните корпус обратно и образуйте кольцо." = "Note: \n \n-Take the position of the longitudinal twine (the maximum possible position). \n \n-During the execution, keep your knees straight, tighten your toes, your back is straight, your chest is rounded. \n \n-Bend the back leg at the knee, turning the body, fix the leg, holding it by the foot, after changing hands, turn the body back and form a ring.";
+
+
+
+
+"Боковые выпады" = "Groin Stretch Exercise";
+
+"ПООЧЕРЁДНО" = "BRACING HIS HANDS";
+
+"Примечание: \n \n-Расставьте ноги чуть шире плеч, развернув стопы в диагональ. \n \n-Расположите руки на опоре чуть выше пола, в случае отсутствия инвентаря, это может быть любой устойчивый предмет. \n \n-Спина прямая, чувствуйте поочередное подключение на растягивание внутренней поверхности бёдра. \n \n-В выпаде колено направленно в сторону стопы, уходя чуть дальше стопы. " = "Note: \n \n-Spread your legs slightly wider than your shoulders, turning your feet diagonally. \n \n-Place your hands on the support just above the floor, in the absence of inventory, it can be any stable object. \n \n-The back is straight, feel the alternate connection to stretch the inner surface of the thigh. \n \n-In the lunge, the knee is directed towards the foot, going a little further than the foot. ";
+
+"20 выпадов" = "20 repetitions";
+
+
+
+
+"Гран-плие" = "Groin Stretch";
+
+"С ШИРОКОЙ ПОСТАНОВКОЙ НОГ" = "SQUATTING";
+
+"Примечание: \n \n-Расставьте ноги чуть шире плеч, развернув стопы в стороны. \n \n-Точка опоры на пятки. \n \n-Таз подкручен и стремится уйти ниже линии горизонта, пальцами рук тянемся к полу, спина при этом прямая, старайтесь чтобы корпус не заваливался вперёд." = "Note: \n \n-Spread your legs slightly wider than your shoulders, turning your feet to the sides. \n \n-The point of support on the heels. \n \n-The pelvis is twisted and tends to go below the horizon line, we reach for the floor with our fingers, while the back is straight, try not to let the body fall forward.";
+
+"12 повторений" = "12 repetitions";
+
+
+
+
+"Гранд-плие" = "Groin Stretch";
+
+"С ФИКСАЦИЕЙ  " = "SQUATTING WITH FIXATION";
+
+"Примечание: \n \n-Фиксация в горизонтальной плоскости в Гранд-плие через предплечье в упор на бёдра. \n \n-Расставьте ноги чуть шире плеч, развернув стопы в стороны. \n \n-Точка опоры на пятки. \n \n-Таз подкручен и стремится уйти ниже линии горизонта, спина при этом прямая, подаем корпус немного вперёд для удобства фиксации, ягодичные и бёдра расслаблены, плечевой пояс зафиксирован, локти работают в упор на бёдра, раскрывая их по сторонам." = "Note: \n \n-Fixation in the horizontal plane in the Groin Stretch through the forearm with an emphasis on the hips. \n \n-Spread your legs slightly wider than your shoulders, turning your feet to the sides. \n \n-The point of support on the heels. \n \n-The pelvis is twisted and tends to go below the horizon line, the back is straight, we move the body a little forward for ease of fixation, the buttocks and thighs are relaxed, the shoulder girdle is fixed.";
+
+
+
+
+"Махи ногами" = "Stretching the legs";
+
+"ЛЕЖА НА БОКУ" = "ON SIDE";
+
+"Примечание: \n \n-Займите положение лежа на боку, вытяните руку, корпус, ноги и стопы в одну линию. \n \n-Колени держите прямыми, таз подайте вперёд, рабочую ногу старайтесь уводить за плечо, доводя ногу в максимум к корпусу." = "Note: \n \n-Take a lying position on your side, stretch your arm, body, legs and feet in one line. \n \n-Keep your knees straight, move your pelvis forward, bringing the leg to the maximum to the body.";
+
+"12 повторений" = "12 repetitions";
+
+
+
+
+"ЛЁЖА НА БОКУ" = "ON SIDE";
+
+"Примечание: \n \n-Займите положение лежа на боку, вытяните руку, корпус, ноги и стопы в одну линию. \n \n-Колени держите прямыми, таз подайте вперёд, рабочую ногу старайтесь уводить за плечо, доводя ногу в максимум к корпусу поймайте её рукой и доведите до максимума, колено нижней ноги согните." = "Note: \n \n-Take a lying position on your side, stretch your arm, body, legs and feet in one line. \n \n-Keep your knees straight, move your pelvis forward, bringing the leg to the maximum to the body, catch it with your hand and bring it to the maximum.";
+
+
+
+
+"С СОКРАЩЕННОЙ СТОПОЙ " = "COMPLEX VARIATION";
+
+"Примечание: \n \n-Займите положение лежа на боку, вытяните руку, корпус, ноги и стопы в одну линию. \n \n-Колени держите прямыми, таз подайте вперёд, рабочую ногу старайтесь уводить за плечо, доводя ногу в максимум к корпусу поймайте её рукой и доведите до максимума, колено нижней ноги согните. \n \n-После доверните стопу ноги на сокращение." = "Note: \n \n-Take a lying position on your side, stretch your arm, body, legs and feet in one line. \n \n-Keep your knees straight, move your pelvis forward, try to take your working leg by the shoulder, bringing the leg to the maximum to the body, catch it with your hand and bring it to the maximum, bend the knee of the lower leg. \n \n-Then entrust the foot of the foot to the reduction.";
+
+
+
+
+"Вращение ногами" = "Leg rotation";
+
+"ЛЁЖА" = "LYING DOWN";
+
+"Примечание: \n \n-Ввиду ваших физических возможностей вращайте ногой с согнутым или прямым коленом. \n \n-Старайтесь работать по максимальной амплитуде. \n \n-Корпус зафиксируйте неподвижно. \n \n-В случае выполнения с прямым коленом, колено во время вращения не сгибается." = "Note: \n \n-Due to your physical abilities, rotate your leg with a bent or straight knee. \n \n-Try to work at the maximum amplitude. \n \n-Fix the housing immobile. \n \n-In the case of performing with a straight knee, the knee does not bend during rotation.";
+
+"По 5 повторений" = "5 repetitions";
+
+
+
+
+"Наклоны лицом к ноге" = "Tilt to straight foot";
+
+"Примечание: \n \n-В положение сидя максимально разведите ноги, выпрямите колени и затяните носки ног, спина прямая. \n \n-Во время наклона корпус поверните лицом к ноге, наклоняясь в максимальное положение к ноге. " = "Note: \n \n-In the sitting position, spread your legs as much as possible, straighten your knees and tighten your toes, your back is straight. \n \n-During the tilt, turn the body to face the leg, bending to the maximum position to the leg. ";
+
+
+
+
+"Наклоны с фиксацией стопы" = "Tilt to straight foot";
+
+"В СКЛАДКЕ НОГИ ВРОЗЬ " = "WITH FOOT FIXATION";
+
+"Примечание: \n \n-В положение сидя максимально разведите ноги, выпрямите колени и затяните носки ног, спина прямая. \n \n-Во время наклона корпус поверните лицом к ноге, наклоняясь в максимальное положение к ноге, возьмите стопу руками и максимально подверните стопу к себе. \n \nФиксация по 5 секунд." = "Note: \n \n-In the sitting position, spread your legs as much as possible, straighten your knees and tighten your toes, your back is straight. \n \n-During the tilt, turn the body to face the leg, bending to the maximum position to the leg, take the foot with your hands and turn the foot to yourself as much as possible. \n \nFixation for 5 seconds.";
+
+"По 6 наклонов" = "6 slopes";
+
+
+
+
+"Наклоны плечом к полу" = "Tilt in transverse sword";
+
+
+
+
+"Наклон вперёд" = "Tilt forward";
+
+"Примечание: \n \n-В положение сидя максимально разведите ноги, выпрямите колени и затяните носки ног, спина прямая. \n \n-Во время наклона тянитесь руками максимально вперёд, не сгибая спину. В положении максимума зафиксируйтесь." = "Note: \n \n-In the sitting position, spread your legs as much as possible, straighten your knees and pull your toes, your back is straight. \n \n-During the tilt, stretch your arms as far forward as possible without bending your back. Lock in the maximum position.";
+
+
+
+
+
+"Примечание: \n \n-В положение сидя максимально разведите ноги, выпрямите колени и затяните носки ног, спина прямая. \n \n-Во время наклона вперёд поверните корпус лицом к ноге, нижнюю руку вытяните к ноге, правую руку вытяните параллельно полу. " = "Note: \n \n-In the sitting position, spread your legs as much as possible, straighten your knees and tighten your toes, your back is straight. \n \n-While leaning forward, turn the body to face the leg, pull the arm towards the leg, pull the right arm parallel to the floor. ";
+
+
+
+
+"Вертикальная лягушка" = "Frog Sitting Pose";
+
+"НА КОЛЕНЯХ" = "SITTING";
+
+"Примечание: \n \n-Широко разведите колени, стопы направьте друг к другу. \n \n-Руки фиксируйте на стопах, прогнитесь в пояснице, раскройте грудной отдел." = "Note: \n \n-Spread your knees wide, point your feet towards each other. \n \n-Fix your hands on your feet, bend in the lower back, open the thoracic region.";
+
+
+
+
+"Ноги буквой ‘П’" = "Frog Stretch";
+
+"Примечание: \n \n-Расставьте колени максимально широко, 90 градусов в коленях, фиксация в первом положении на прямых руках 30 секунд. \n \n-Поясница прогнута, грудная клетка раскрыта, таз  открыт и находится на одной линии с коленом, плечи не уходят ниже линии бедра. \n \n-После фиксации наклоните корпус в упор на предплечья, с фиксацией в этом положении еще на 30 секунд с динамическими покачиваниями назад из исходного положения." = "Note: \n \n-Spread your knees as wide as possible, 90 degrees at the knees, fixation in the first position on straight arms for 30 seconds. \n \n-The lower back is bent, the chest is open, the pelvis is open and is in line with the knee, the shoulders do not go below the hip line. \n \n-After fixing, tilt the body at an emphasis on the forearms, with fixation in this position for another 30 seconds with dynamic swings back from the starting position.";
+
+"2 фиксации по 30 секунд" = "Fixation 30 seconds";
+
+
+
+"С ФИКСАЦИЕЙ   " = "WITH STRAIGHTENED FOOT / SIMPLE";
+
+"Примечание: \n \n-Одну из ног согните в колене 90 градусов, другую ногу выпрямите в колене, затяните носок, поясница прогнута, грудная клетка раскрыта. \n \n-Зафиксируйтесь на прямых руках, плечи не должны выходить на линию ног." = "Note: \n \n-Bend one of the legs at the knee 90 degrees, straighten the other leg at the knee, tighten the sock, the lower back is bent, the chest is open. \n \n-Fix on straight arms, shoulders should not go to the line of legs.";
+
+
+
+
+"В УПОРЕ НА ПРЕДПЛЕЧЬЯ" = "WITH STRAIGHTENED FOOT / COMPLEX";
+
+"Примечание: \n \n-Одну из ног согните в колене 90 градусов, другую ногу выпрямите в колене, затяните носок, поясница прогнута, грудная клетка раскрыта. \n \n-Наклоните корпус в упор на предплечья." = "Note: \n \n-Bend one of the legs at the knee 90 degrees, straighten the other leg at the knee, pull the sock, the lower back is bent, the chest is open. \n \n-Tilt the body in focus on the forearms.";
+
+
+
+
+"В НАКЛОНЕ" = "SIDE ";
+
+"Примечание: \n \n-Одну из ног согните в колене 90 градусов, другую ногу выпрямите в колене, затяните носок, поясница прогнута, грудная клетка раскрыта. \n \n-Наклоните корпус к ноге плечом в точку перед коленом, не поворачивая его." = "Note: \n \n-Bend one of the legs at the knee 90 degrees, straighten the other leg at the knee, tighten the sock, the lower back is bent, the chest is open. \n \n-Tilt the body to the leg with your shoulder to the point in front of the knee, without turning it.";
+
+
+
+
+"Разножка" = "Discussion";
+
+"НА ПОПЕРЕЧНЫЙ ШПАГАТ " = "IN MOVE";
+
+"Примечание: \n \n-Лежа на спине вытяните ноги вверх, колени прямые, носки затянутые. \n \n-Динамически отводите ноги, в максимуме необходимо расслабить пах, чтобы ноги аккуратно пружинили на связке." = "Note: \n \n-Lying on your back, stretch your legs up, knees straight, socks tightened. \n \n-Dynamically pull your legs away, it is necessary to relax the groin to the maximum, so that the legs gently spring on the ligament.";
+
+
+
+
+"Фиксация в разножке" = "Discussion";
+
+"НА ПОПЕРЕЧНЫЙ ШПАГАТ" = "WITH FIXATION";
+
+"Примечание: \n \n-Лежа на спине вытяните ноги вверх, колени прямые, носки затянутые. \n \n-Отводите ноги, в максимуме необходимо поймать ноги руками и зафиксировать их в течении 15 секунд, далее сократите стопы, взявшись за них руками и доведите ноги до максимального положения, зафиксировавшись еще на 15 секунд. " = "Note: \n \n-Lying on your back, stretch your legs up, knees straight, socks tightened. \n \n-Pull your legs away, at the maximum you need to catch your legs with your hands and fix them for 15 seconds,  bring your legs to the maximum position, locking for another 15 seconds. ";
+
+"2 фиксации по 15 секунд" = "Fixation 15 seconds";
+
+
+
+
+"Переходы" = "Transition";
+
+"ЧЕРЕЗ ПОПЕРЕЧНЫЙ ШПАГАТ" = "TRANSVERSE LEGS POSITION";
+
+"Примечание: \n \n-Во время выполнения упражнения держите колени прямыми, носки затянутыми. \n \n-Прогните поясницу, раскройте грудную клетку. \n \n-Разводите ноги максимально широко, прокатывайтесь с помощью рук." = "Note: \n \n-Keep your knees straight and your socks tightened during the exercise. \n \n-Bend the lower back, open the chest. \n\n-Spread your legs as wide as possible, roll with your hands.";
+
+"8 повторений" = "8 repetitions";
+
+
+
+"В данном разделе собраны упражнения на растяжку, которые разбиты на группы - по направлениям" = "This section contains stretching exercises, which are divided into groups - according to the directions";
+
+"Разминка" = "Warm-Up";
+
+"Для гибкости спины" = "Flexible back";
+
+"Для продольного шпагата" = "Longitudinal twine";
+
+"Для поперечного шпагата" = "Cross twine";
+
+"Данные упражнения не являются готовым комплексом, а лишь собраны по направлениям, формируйте упражнения в любом удобном для Вас порядке" = "These exercises are not a ready-made complex, but only collected in directions, form exercises in any order convenient for you";
+
+"Гибкая спина" = "Flexible back";
+
+"Продольный шпагат" = "Longitudinal twine";
+
+"Поперечный шпагат" = "Cross twine";

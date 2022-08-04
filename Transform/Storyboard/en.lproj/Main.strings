@@ -1,0 +1,171 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0uW-JT-422"; */
+"0uW-JT-422.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3sQ-Me-7dm"; */
+"3sQ-Me-7dm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4gb-oX-Yur"; */
+"4gb-oX-Yur.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "4oS-Mq-pWK"; */
+"4oS-Mq-pWK.text" = "4x20";
+
+/* Class = "UILabel"; text = "Workout Name - 30"; ObjectID = "5RB-rX-3Xr"; */
+"5RB-rX-3Xr.text" = "Workout Name - 30";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6rA-1E-ELa"; */
+"6rA-1E-ELa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8jg-MK-IE1"; */
+"8jg-MK-IE1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9bb-4t-Yaa"; */
+"9bb-4t-Yaa.text" = "Label";
+
+/* Class = "UISlider"; accessibilityLabel = "Rest Interval Slider"; ObjectID = "Bdd-tJ-ity"; */
+"Bdd-tJ-ity.accessibilityLabel" = "Rest Interval Slider";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bro-7E-qhh"; */
+"Bro-7E-qhh.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "DA3-aW-FrY"; */
+"DA3-aW-FrY.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DKH-2Y-sFD"; */
+"DKH-2Y-sFD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IWs-D6-Yhj"; */
+"IWs-D6-Yhj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IYb-ni-kx1"; */
+"IYb-ni-kx1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IwL-OH-Mve"; */
+"IwL-OH-Mve.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "Jii-fP-Ftf"; */
+"Jii-fP-Ftf.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KWc-3f-heP"; */
+"KWc-3f-heP.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LIJ-Ne-cv5"; */
+"LIJ-Ne-cv5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LaW-aE-bC8"; */
+"LaW-aE-bC8.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "LfN-JS-Jq7"; */
+"LfN-JS-Jq7.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MgR-ZN-UoF"; */
+"MgR-ZN-UoF.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "O9L-Z1-dga"; */
+"O9L-Z1-dga.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OOn-Oz-lGO"; */
+"OOn-Oz-lGO.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Osn-qg-nZS"; */
+"Osn-qg-nZS.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PH9-KK-eRf"; */
+"PH9-KK-eRf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PKB-aF-ZGA"; */
+"PKB-aF-ZGA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S9e-ul-vzR"; */
+"S9e-ul-vzR.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "SRQ-dO-DBc"; */
+"SRQ-dO-DBc.text" = "1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UxE-OK-QBq"; */
+"UxE-OK-QBq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VFD-js-0dj"; */
+"VFD-js-0dj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W3K-PZ-x6e"; */
+"W3K-PZ-x6e.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "XSx-uJ-fOF"; */
+"XSx-uJ-fOF.text" = "4x20";
+
+/* Class = "UILabel"; text = "30 seconds"; ObjectID = "Xq7-1G-z8F"; */
+"Xq7-1G-z8F.text" = "30 seconds";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZHJ-gL-bev"; */
+"ZHJ-gL-bev.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bZd-xc-O4v"; */
+"bZd-xc-O4v.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bkZ-zY-YN7"; */
+"bkZ-zY-YN7.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "bzh-bA-ULB"; */
+"bzh-bA-ULB.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dRJ-kj-PJp"; */
+"dRJ-kj-PJp.text" = "Label";
+
+/* Class = "UIViewController"; title = "Settings Page"; ObjectID = "dTd-K7-G98"; */
+"dTd-K7-G98.title" = "Settings Page";
+
+/* Class = "UITableViewController"; title = "WorkoutsEditor"; ObjectID = "eAh-9o-udp"; */
+"eAh-9o-udp.title" = "WorkoutsEditor";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "foR-eM-rip"; */
+"foR-eM-rip.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "go5-dQ-Y4y"; */
+"go5-dQ-Y4y.text" = "4x20";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "hJB-K1-252"; */
+"hJB-K1-252.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iKI-ph-UAl"; */
+"iKI-ph-UAl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jLk-JO-HeC"; */
+"jLk-JO-HeC.text" = "Label";
+
+/* Class = "UILabel"; text = "Rest duration:"; ObjectID = "kDv-aP-XMg"; */
+"kDv-aP-XMg.text" = "Rest duration:";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "kJN-c9-sDH"; */
+"kJN-c9-sDH.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lzN-kJ-nqL"; */
+"lzN-kJ-nqL.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m5S-1Y-0J8"; */
+"m5S-1Y-0J8.text" = "Label";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "tKw-0M-izN"; */
+"tKw-0M-izN.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vP7-yR-xZ5"; */
+"vP7-yR-xZ5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wHi-Sb-7Ki"; */
+"wHi-Sb-7Ki.text" = "Label";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "x5I-BS-tQ2"; */
+"x5I-BS-tQ2.text" = "10";
+
+/* Class = "UILabel"; text = "4x20"; ObjectID = "xIT-r9-6FN"; */
+"xIT-r9-6FN.text" = "4x20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xVV-gb-ryS"; */
+"xVV-gb-ryS.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ypz-k2-Voa"; */
+"ypz-k2-Voa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ytb-YT-O5z"; */
+"ytb-YT-O5z.text" = "Label";
